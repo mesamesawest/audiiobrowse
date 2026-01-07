@@ -5,14 +5,19 @@
     <description>Latest music tracks from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jan 2026 09:51:28</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 10:05:07</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Lifetime With You (Instrumental) - J Scott Rakozy</title>
+      <title>A Lifetime With You (Instrumental)</title>
       <link>https://audiio.com/j-scott-rakozy/lifetime-you/a-lifetime-with-you-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/9903</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/JScottRakozy.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/JScottRakozy.jpg</image>
+      <artist>J Scott Rakozy</artist>
+      <album />
+      <duration>3:05</duration>
+      <bpm>137</bpm>
+      <genres>cinematic, classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; J Scott Rakozy&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
@@ -28,11 +33,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>King Baba - Mr. Dot</title>
+      <title>King Baba</title>
       <link>https://audiio.com/mr.-dot/mr.-dot/king-baba</link>
       <guid isPermaLink="false">https://audiio.com/track/11133</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Mr. Dot_ 1700 x 475 px (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Mr. Dot_ 1700 x 475 px (edited).jpg</image>
+      <artist>Mr. Dot</artist>
+      <album />
+      <duration>1:40</duration>
+      <bpm>100</bpm>
+      <genres>electronic, pop, world</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Mr. Dot&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop, world&lt;/p&gt;
@@ -49,11 +59,16 @@
       <category>world</category>
     </item>
     <item>
-      <title>Ladybug Drones (Instrumental) - Maciej Sadowski</title>
+      <title>Ladybug Drones (Instrumental)</title>
       <link>https://audiio.com/maciej-sadowski/i-have-absolutely-nothing-to-say,-so-listen/ladybug-drones-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/10958</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/I Have Absolutely Nothing to Say, so Listen - Maciej Sadowski - Album Cover Art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/I Have Absolutely Nothing to Say, so Listen - Maciej Sadowski - Album Cover Art.jpg</image>
+      <artist>Maciej Sadowski</artist>
+      <album />
+      <duration>3:27</duration>
+      <bpm>100</bpm>
+      <genres>cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Maciej Sadowski&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
@@ -68,11 +83,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Encounter (Instrumental) - Jon Winterstein</title>
+      <title>Encounter (Instrumental)</title>
       <link>https://audiio.com/jon-winterstein/unbroken/encounter-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/13714</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Unbroken V2.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Unbroken V2.jpg</image>
+      <artist>Jon Winterstein</artist>
+      <album />
+      <duration>2:12</duration>
+      <bpm>129</bpm>
+      <genres>cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Jon Winterstein&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
@@ -87,11 +107,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Cold - Løfte</title>
+      <title>Cold</title>
       <link>https://audiio.com/løfte/løfte/cold</link>
       <guid isPermaLink="false">https://audiio.com/track/14106</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/023 - Lofte Cover Art 4.jpeg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/023 - Lofte Cover Art 4.jpeg</image>
+      <artist>Løfte</artist>
+      <album />
+      <duration>3:30</duration>
+      <bpm>129</bpm>
+      <genres>cinematic, singerwriter</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Løfte&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, singerwriter&lt;/p&gt;
@@ -107,11 +132,16 @@
       <category>singerwriter</category>
     </item>
     <item>
-      <title>Love Is That Space (Feat. POLY POLY) - Cellz</title>
+      <title>Love Is That Space (Feat. POLY POLY)</title>
       <link>https://audiio.com/cellz/love-is-that-space/love-is-that-space-feat-poly-poly</link>
       <guid isPermaLink="false">https://audiio.com/track/16925</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/love is that space.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/love is that space.jpg</image>
+      <artist>Cellz</artist>
+      <album />
+      <duration>3:17</duration>
+      <bpm>136</bpm>
+      <genres>electronic, r&amp;b, soul</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Cellz&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, r&amp;amp;b, soul&lt;/p&gt;
@@ -128,11 +158,16 @@
       <category>soul</category>
     </item>
     <item>
-      <title>Right Now - New Unknown</title>
+      <title>Right Now</title>
       <link>https://audiio.com/new-unknown/new-unknown/right-now</link>
       <guid isPermaLink="false">https://audiio.com/track/13439</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/128 - New Unknown Photo 1.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/128 - New Unknown Photo 1.jpg</image>
+      <artist>New Unknown</artist>
+      <album />
+      <duration>2:59</duration>
+      <bpm>100</bpm>
+      <genres>cinematic, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; New Unknown&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop&lt;/p&gt;
@@ -148,11 +183,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>You Should Know - Evan Ford</title>
+      <title>You Should Know</title>
       <link>https://audiio.com/evan-ford/evan-ford/you-should-know</link>
       <guid isPermaLink="false">https://audiio.com/track/13241</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Identity_Alex_Tan_Photos_ID3688 (edited).jpg?v=32" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Identity_Alex_Tan_Photos_ID3688 (edited).jpg?v=32</image>
+      <artist>Evan Ford</artist>
+      <album />
+      <duration>2:29</duration>
+      <bpm>100</bpm>
+      <genres>cinematic, hip hop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Evan Ford&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
@@ -168,11 +208,16 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>New Light (Instrumental) - Joshua Naranjo</title>
+      <title>New Light (Instrumental)</title>
       <link>https://audiio.com/joshua-naranjo/finding-light/new-light-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16351</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/04 - Finding Light Artwork.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/04 - Finding Light Artwork.jpg</image>
+      <artist>Joshua Naranjo</artist>
+      <album />
+      <duration>2:27</duration>
+      <bpm>75</bpm>
+      <genres>ambient, cinematic, classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Joshua Naranjo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
@@ -189,11 +234,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>Strategic Invasion (Instrumental) - Liam Back</title>
+      <title>Strategic Invasion (Instrumental)</title>
       <link>https://audiio.com/liam-back/liam-back/strategic-invasion-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/1846</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Liam-Back_Liam-Back-1.jpg?v=18" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Liam-Back_Liam-Back-1.jpg?v=18</image>
+      <artist>Liam Back</artist>
+      <album />
+      <duration>1:12</duration>
+      <bpm>136</bpm>
+      <genres>cinematic, electronic, world</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Liam Back&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, electronic, world&lt;/p&gt;
@@ -210,11 +260,16 @@
       <category>world</category>
     </item>
     <item>
-      <title>Mountain - McKenna Alicia</title>
+      <title>Mountain</title>
       <link>https://audiio.com/mckenna-alicia/mountain/mountain</link>
       <guid isPermaLink="false">https://audiio.com/track/11673</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/blurr cover-Recovered (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/blurr cover-Recovered (edited).jpg</image>
+      <artist>McKenna Alicia</artist>
+      <album />
+      <duration>3:34</duration>
+      <bpm>100</bpm>
+      <genres>r&amp;b, soul</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; McKenna Alicia&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; r&amp;amp;b, soul&lt;/p&gt;
@@ -230,11 +285,16 @@
       <category>soul</category>
     </item>
     <item>
-      <title>Tea and Lemonade (Instrumental) - Mad Keys</title>
+      <title>Tea and Lemonade (Instrumental)</title>
       <link>https://audiio.com/mad-keys/mad-keys/tea-and-lemonade-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/13481</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/image 1 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/image 1 (edited).jpg</image>
+      <artist>Mad Keys</artist>
+      <album />
+      <duration>1:52</duration>
+      <bpm>100</bpm>
+      <genres>hip hop, lo-fi</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Mad Keys&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, lo-fi&lt;/p&gt;
@@ -250,11 +310,16 @@
       <category>lo-fi</category>
     </item>
     <item>
-      <title>Flex (Instrumental) - D3LT4</title>
+      <title>Flex (Instrumental)</title>
       <link>https://audiio.com/d3lt4/flex/flex-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16054</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/D3LT4_Flex_Art(1).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/D3LT4_Flex_Art(1).jpg</image>
+      <artist>D3LT4</artist>
+      <album />
+      <duration>3:37</duration>
+      <bpm>140</bpm>
+      <genres>ambient, electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; D3LT4&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, electronic&lt;/p&gt;
@@ -270,11 +335,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Konnichiwa (Instrumental) - Kristoffer Eikrem</title>
+      <title>Konnichiwa (Instrumental)</title>
       <link>https://audiio.com/kristoffer-eikrem/kristoffer-eikrem/konnichiwa-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15758</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/036905a1-6aa3-4eab-8311-5eae540cd8ee.jpg?v=1" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/036905a1-6aa3-4eab-8311-5eae540cd8ee.jpg?v=1</image>
+      <artist>Kristoffer Eikrem</artist>
+      <album />
+      <duration>1:46</duration>
+      <bpm>76</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kristoffer Eikrem&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -289,11 +359,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>Metanöia  - Shöckface</title>
+      <title>Metanöia </title>
       <link>https://audiio.com/shockface/metanoia/metania</link>
       <guid isPermaLink="false">https://audiio.com/track/16389</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Metanoia ero808.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Metanoia ero808.jpg</image>
+      <artist>Shöckface</artist>
+      <album />
+      <duration>2:44</duration>
+      <bpm>87</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Shöckface&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -308,11 +383,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Driftwell (Instrumental) - Luma Fold</title>
+      <title>Driftwell (Instrumental)</title>
       <link>https://audiio.com/luma-fold/a-quiet-atlas/driftwell-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15596</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/A Quiet Atlas.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/A Quiet Atlas.jpg</image>
+      <artist>Luma Fold</artist>
+      <album />
+      <duration>3:22</duration>
+      <bpm>120</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Luma Fold&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -327,11 +407,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>Mvnalng (Instrumental) - Howiewonder</title>
+      <title>Mvnalng (Instrumental)</title>
       <link>https://audiio.com/howiewonder/howiewonder/mvnalng-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16082</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/a138.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/a138.jpg</image>
+      <artist>Howiewonder</artist>
+      <album />
+      <duration>2:36</duration>
+      <bpm>82</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Howiewonder&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -346,11 +431,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>Porch Light - Abby Jane</title>
+      <title>Porch Light</title>
       <link>https://audiio.com/abby-jane/porch-light/porch-light</link>
       <guid isPermaLink="false">https://audiio.com/track/18155</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Porch Light cover art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Porch Light cover art.jpg</image>
+      <artist>Abby Jane</artist>
+      <album />
+      <duration>3:00</duration>
+      <bpm>141</bpm>
+      <genres>folk, singerwriter</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Abby Jane&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; folk, singerwriter&lt;/p&gt;
@@ -366,11 +456,16 @@
       <category>singerwriter</category>
     </item>
     <item>
-      <title>Let The Good Times Roll - Isaiah Jones</title>
+      <title>Let The Good Times Roll</title>
       <link>https://audiio.com/isaiah-jones/let-the-good-times-roll/let-the-good-times-roll</link>
       <guid isPermaLink="false">https://audiio.com/track/17991</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Let the Good Times Roll.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Let the Good Times Roll.jpg</image>
+      <artist>Isaiah Jones</artist>
+      <album />
+      <duration>2:32</duration>
+      <bpm>89</bpm>
+      <genres>r&amp;b, soul</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Isaiah Jones&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; r&amp;amp;b, soul&lt;/p&gt;
@@ -386,11 +481,16 @@
       <category>soul</category>
     </item>
     <item>
-      <title>Yonder (Instrumental) - Andrew and Jared Depolo</title>
+      <title>Yonder (Instrumental)</title>
       <link>https://audiio.com/andrew-and-jared-depolo/andrew-and-jared-depolo/yonder-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15669</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27</image>
+      <artist>Andrew and Jared Depolo</artist>
+      <album />
+      <duration>3:44</duration>
+      <bpm>112</bpm>
+      <genres>ambient, cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
@@ -406,11 +506,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Make 'Em Feel Good (Feat. Jade Josephine &amp; BTYW) - Keepitphilthy</title>
+      <title>Make 'Em Feel Good (Feat. Jade Josephine &amp; BTYW)</title>
       <link>https://audiio.com/keepitphilthy/keepitphilthy/make-em-feel-good-feat-jade-josephine--btyw</link>
       <guid isPermaLink="false">https://audiio.com/track/16450</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/01 - KeepitPhilty4B (edited).jpg?v=41" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/01 - KeepitPhilty4B (edited).jpg?v=41</image>
+      <artist>Keepitphilthy</artist>
+      <album />
+      <duration>2:15</duration>
+      <bpm>144</bpm>
+      <genres>hip hop, pop, soul</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Keepitphilthy&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, pop, soul&lt;/p&gt;
@@ -427,11 +532,16 @@
       <category>soul</category>
     </item>
     <item>
-      <title>Hypershift (Instrumental) - Evgeny Bardyuzha</title>
+      <title>Hypershift (Instrumental)</title>
       <link>https://audiio.com/evgeny-bardyuzha/hypershift/hypershift-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15369</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Evgeny Bardyuzha - Hypershift (cover).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Evgeny Bardyuzha - Hypershift (cover).jpg</image>
+      <artist>Evgeny Bardyuzha</artist>
+      <album />
+      <duration>0:56</duration>
+      <bpm>172</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Evgeny Bardyuzha&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -446,11 +556,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>I'm in Luck - tomy wyne</title>
+      <title>I'm in Luck</title>
       <link>https://audiio.com/tomy-wyne/anxious/im-in-luck</link>
       <guid isPermaLink="false">https://audiio.com/track/16739</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Anxious.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Anxious.jpg</image>
+      <artist>tomy wyne</artist>
+      <album />
+      <duration>3:11</duration>
+      <bpm>94</bpm>
+      <genres>indie, pop, soul</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; tomy wyne&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, soul&lt;/p&gt;
@@ -467,11 +582,16 @@
       <category>soul</category>
     </item>
     <item>
-      <title>Sugar Plums (Instrumental) - Erick Peña</title>
+      <title>Sugar Plums (Instrumental)</title>
       <link>https://audiio.com/erick-peña/holiday-trap-collection/sugar-plums-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/17689</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Erick Pena - Holiday Trap Collection.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Erick Pena - Holiday Trap Collection.jpg</image>
+      <artist>Erick Peña</artist>
+      <album />
+      <duration>1:30</duration>
+      <bpm>77</bpm>
+      <genres>christmas, hip hop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Erick Peña&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; christmas, hip hop&lt;/p&gt;
@@ -487,11 +607,16 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>Moonlight (Congi Remix) (Instrumental) - ATYYA</title>
+      <title>Moonlight (Congi Remix) (Instrumental)</title>
       <link>https://audiio.com/atyya/moonlight/moonlight-congi-remix-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15541</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ATYYA Moonlight Art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/ATYYA Moonlight Art.jpg</image>
+      <artist>ATYYA</artist>
+      <album />
+      <duration>4:27</duration>
+      <bpm>141</bpm>
+      <genres>ambient, electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; ATYYA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, electronic&lt;/p&gt;
@@ -507,11 +632,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Looking Glass (Instrumental) - Eli Baumgarten</title>
+      <title>Looking Glass (Instrumental)</title>
       <link>https://audiio.com/eli-baumgarten/final-collapse/looking-glass</link>
       <guid isPermaLink="false">https://audiio.com/track/16044</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Cover-Fourth Memory (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Cover-Fourth Memory (edited).jpg</image>
+      <artist>Eli Baumgarten</artist>
+      <album />
+      <duration>1:27</duration>
+      <bpm>208</bpm>
+      <genres>ambient, cinematic, classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Eli Baumgarten&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
@@ -528,11 +658,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>The Devil &amp; The Deep Blue (Feat. BADTAB) - Cellz</title>
+      <title>The Devil &amp; The Deep Blue (Feat. BADTAB)</title>
       <link>https://audiio.com/cellz/the-pōneke-session/the-devil--the-deep-blue-feat-badtab</link>
       <guid isPermaLink="false">https://audiio.com/track/16933</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/the poenke session.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/the poenke session.jpg</image>
+      <artist>Cellz</artist>
+      <album />
+      <duration>3:49</duration>
+      <bpm>148</bpm>
+      <genres>indie, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Cellz&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, rock&lt;/p&gt;
@@ -549,11 +684,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>La mort de l'homme (Instrumental) - Raphael Novarina</title>
+      <title>La mort de l'homme (Instrumental)</title>
       <link>https://audiio.com/raphael-novarina/vladimir-gapontsev-plays-raphaël-novarina/la-mort-de-lhomme-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/17356</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/GAPONTSEV.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/GAPONTSEV.jpg</image>
+      <artist>Raphael Novarina</artist>
+      <album />
+      <duration>3:42</duration>
+      <bpm>137</bpm>
+      <genres>classical, world, jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Raphael Novarina&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; classical, world, jazz&lt;/p&gt;
@@ -570,11 +710,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>All We Can Do Is Wait (Instrumental) - Edward Cross</title>
+      <title>All We Can Do Is Wait (Instrumental)</title>
       <link>https://audiio.com/edward-cross/edward-cross/all-we-can-do-is-wait-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16352</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_0393 (edited).jpeg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_0393 (edited).jpeg</image>
+      <artist>Edward Cross</artist>
+      <album />
+      <duration>1:47</duration>
+      <bpm>76</bpm>
+      <genres>ambient, jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Edward Cross&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, jazz&lt;/p&gt;
@@ -590,11 +735,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>Mitbaes (Instrumental) - Tamuz</title>
+      <title>Mitbaes (Instrumental)</title>
       <link>https://audiio.com/tamuz/tamuz/mitbaes</link>
       <guid isPermaLink="false">https://audiio.com/track/15734</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_2192 (1) (edited).JPG" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_2192 (1) (edited).JPG</image>
+      <artist>Tamuz</artist>
+      <album />
+      <duration>3:03</duration>
+      <bpm>42</bpm>
+      <genres>soul, jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Tamuz&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; soul, jazz&lt;/p&gt;
@@ -610,11 +760,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>Majestic - Sergini</title>
+      <title>Majestic</title>
       <link>https://audiio.com/sergini/majestic/majestic</link>
       <guid isPermaLink="false">https://audiio.com/track/16362</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Majestic Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Majestic Cover.jpg</image>
+      <artist>Sergini</artist>
+      <album />
+      <duration>3:19</duration>
+      <bpm>144</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Sergini&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -629,11 +784,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Insanity (Instrumental) - Laure Chan</title>
+      <title>Insanity (Instrumental)</title>
       <link>https://audiio.com/laure-chan/tribute-to-bach/insanity-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16707</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album 1 cover art.jpeg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Album 1 cover art.jpeg</image>
+      <artist>Laure Chan</artist>
+      <album />
+      <duration>3:39</duration>
+      <bpm>141</bpm>
+      <genres>classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Laure Chan&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; classical&lt;/p&gt;
@@ -648,11 +808,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>LIKE IT'S 1965 - Gene Evaro Jr</title>
+      <title>LIKE IT'S 1965</title>
       <link>https://audiio.com/gene-evaro-jr/gene-evaro-jr./like-its-1965</link>
       <guid isPermaLink="false">https://audiio.com/track/17291</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50</image>
+      <artist>Gene Evaro Jr</artist>
+      <album />
+      <duration>3:43</duration>
+      <bpm>161</bpm>
+      <genres>pop, rock, soul</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Gene Evaro Jr&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock, soul&lt;/p&gt;
@@ -669,11 +834,16 @@
       <category>soul</category>
     </item>
     <item>
-      <title>Still Trappin  - asáu</title>
+      <title>Still Trappin </title>
       <link>https://audiio.com/asáu/asáu/still-trappin</link>
       <guid isPermaLink="false">https://audiio.com/track/15783</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Asau-14 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Asau-14 (edited).jpg</image>
+      <artist>asáu</artist>
+      <album />
+      <duration>2:48</duration>
+      <bpm>70</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; asáu&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -688,11 +858,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Seeing Smoke  - Caiti Patton</title>
+      <title>Seeing Smoke </title>
       <link>https://audiio.com/caiti-patton/animals/seeing-smoke</link>
       <guid isPermaLink="false">https://audiio.com/track/16499</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Screenshot 2025-09-01 at 5.34.07 PM (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Screenshot 2025-09-01 at 5.34.07 PM (edited).jpg</image>
+      <artist>Caiti Patton</artist>
+      <album />
+      <duration>3:16</duration>
+      <bpm>112</bpm>
+      <genres>pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Caiti Patton&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop&lt;/p&gt;
@@ -707,11 +882,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>777 (Feat. Hunter Magno) - Kenny Pahina</title>
+      <title>777 (Feat. Hunter Magno)</title>
       <link>https://audiio.com/kenny-pahina/party-feet-radio/777-feat-hunter-magno</link>
       <guid isPermaLink="false">https://audiio.com/track/18094</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/C48084B0-95DB-495C-8ADF-8C0BCC9F4526 (1).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/C48084B0-95DB-495C-8ADF-8C0BCC9F4526 (1).jpg</image>
+      <artist>Kenny Pahina</artist>
+      <album />
+      <duration>3:12</duration>
+      <bpm>129</bpm>
+      <genres>electronic, hip hop, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kenny Pahina&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop, pop&lt;/p&gt;
@@ -728,11 +908,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Get Down - The Artist "Me"</title>
+      <title>Get Down</title>
       <link>https://audiio.com/the-artist-"me"/get-down/get-down</link>
       <guid isPermaLink="false">https://audiio.com/track/15822</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/5841406870472069160.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/5841406870472069160.jpg</image>
+      <artist>The Artist "Me"</artist>
+      <album />
+      <duration>2:28</duration>
+      <bpm>106</bpm>
+      <genres>pop, r&amp;b</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Artist &amp;quot;Me&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, r&amp;amp;b&lt;/p&gt;
@@ -748,11 +933,16 @@
       <category>r&amp;b</category>
     </item>
     <item>
-      <title>Embustero y Bailarin (Instrumental) - Sharine</title>
+      <title>Embustero y Bailarin (Instrumental)</title>
       <link>https://audiio.com/sharine/embustero-y-bailarin-/embustero-y-bailarin-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16088</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Sharine_Artwork_Embustero_y_Bailarín.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Sharine_Artwork_Embustero_y_Bailarín.jpg</image>
+      <artist>Sharine</artist>
+      <album />
+      <duration>2:07</duration>
+      <bpm>152</bpm>
+      <genres>ambient, jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Sharine&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, jazz&lt;/p&gt;
@@ -768,11 +958,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>iDK (Instrumental) - niko+</title>
+      <title>iDK (Instrumental)</title>
       <link>https://audiio.com/niko+/street-jobs/idk</link>
       <guid isPermaLink="false">https://audiio.com/track/16211</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/12. Street Jobs.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/12. Street Jobs.jpg</image>
+      <artist>niko+</artist>
+      <album />
+      <duration>3:06</duration>
+      <bpm>99</bpm>
+      <genres>cinematic, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; niko+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, rock&lt;/p&gt;
@@ -788,11 +983,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Waiting For You - Oceanne</title>
+      <title>Waiting For You</title>
       <link>https://audiio.com/oceanne/oceanne/waiting-for-you</link>
       <guid isPermaLink="false">https://audiio.com/track/15712</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_5926.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_5926.jpg</image>
+      <artist>Oceanne</artist>
+      <album />
+      <duration>3:35</duration>
+      <bpm>117</bpm>
+      <genres>folk, pop, singerwriter</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Oceanne&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; folk, pop, singerwriter&lt;/p&gt;
@@ -809,11 +1009,16 @@
       <category>singerwriter</category>
     </item>
     <item>
-      <title>MVP (Feat. Amirreza Masoumi) - Nyukyung</title>
+      <title>MVP (Feat. Amirreza Masoumi)</title>
       <link>https://audiio.com/nyukyung/mvp/mvp-feat-amirreza-masoumi</link>
       <guid isPermaLink="false">https://audiio.com/track/15690</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/MVP.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/MVP.jpg</image>
+      <artist>Nyukyung</artist>
+      <album />
+      <duration>1:46</duration>
+      <bpm>112</bpm>
+      <genres>hip hop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Nyukyung&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop&lt;/p&gt;
@@ -828,11 +1033,16 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>I Hope I Never Leave Your Mind - Drew Elliott</title>
+      <title>I Hope I Never Leave Your Mind</title>
       <link>https://audiio.com/drew-elliott/i-hope-i-never-leave-your-mind/i-hope-i-never-leave-your-mind</link>
       <guid isPermaLink="false">https://audiio.com/track/15790</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ALBUM ART.jpg?v=33" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/ALBUM ART.jpg?v=33</image>
+      <artist>Drew Elliott</artist>
+      <album />
+      <duration>3:36</duration>
+      <bpm>144</bpm>
+      <genres>indie, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Drew Elliott&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop&lt;/p&gt;
@@ -848,11 +1058,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Ce Soir (Instrumental) - Ted Taforo</title>
+      <title>Ce Soir (Instrumental)</title>
       <link>https://audiio.com/ted-taforo/swing-vol.-3/ce-soir-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16341</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Aug 14 art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Aug 14 art.jpg</image>
+      <artist>Ted Taforo</artist>
+      <album />
+      <duration>2:04</duration>
+      <bpm>91</bpm>
+      <genres>jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Ted Taforo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; jazz&lt;/p&gt;
@@ -867,11 +1082,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>Holmdel (Instrumental) - ELITIN</title>
+      <title>Holmdel (Instrumental)</title>
       <link>https://audiio.com/elitin/ashwire/holmdel-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/18086</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Ashwire Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Ashwire Cover.jpg</image>
+      <artist>ELITIN</artist>
+      <album />
+      <duration>2:40</duration>
+      <bpm>110</bpm>
+      <genres>ambient, cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; ELITIN&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
@@ -887,11 +1107,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Under Pressure (Instrumental) - Oscar Carmona</title>
+      <title>Under Pressure (Instrumental)</title>
       <link>https://audiio.com/oscar-carmona/between-states/under-pressure-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15765</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Between States - EP - Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Between States - EP - Cover.jpg</image>
+      <artist>Oscar Carmona</artist>
+      <album />
+      <duration>3:17</duration>
+      <bpm>134</bpm>
+      <genres>ambient, cinematic, classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Oscar Carmona&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
@@ -908,11 +1133,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>My Hide and Seek (Feat. Juniper Vale) - Vian Izak</title>
+      <title>My Hide and Seek (Feat. Juniper Vale)</title>
       <link>https://audiio.com/vian-izak/my-hide-and-seek/my-hide-and-seek-feat-juniper-vale</link>
       <guid isPermaLink="false">https://audiio.com/track/15571</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Tradition_Chris_Abatzis_Photos_ID9161 copy.jpg?v=45" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Tradition_Chris_Abatzis_Photos_ID9161 copy.jpg?v=45</image>
+      <artist>Vian Izak</artist>
+      <album />
+      <duration>3:38</duration>
+      <bpm>64</bpm>
+      <genres>country, folk, indie, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Vian Izak&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; country, folk, indie, pop, rock&lt;/p&gt;
@@ -931,11 +1161,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Overlord (Instrumental) - Brad Hill</title>
+      <title>Overlord (Instrumental)</title>
       <link>https://audiio.com/brad-hill/overlord/overlord-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16654</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Overlord_Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Overlord_Cover.jpg</image>
+      <artist>Brad Hill</artist>
+      <album />
+      <duration>2:43</duration>
+      <bpm>100</bpm>
+      <genres>cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Brad Hill&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
@@ -950,11 +1185,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Icono - Neu Song</title>
+      <title>Icono</title>
       <link>https://audiio.com/neu-song/icono/icono</link>
       <guid isPermaLink="false">https://audiio.com/track/16036</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album Cover Instagram Post.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Album Cover Instagram Post.jpg</image>
+      <artist>Neu Song</artist>
+      <album />
+      <duration>2:20</duration>
+      <bpm>117</bpm>
+      <genres>cinematic, pop, r&amp;b</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Neu Song&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, r&amp;amp;b&lt;/p&gt;
@@ -971,11 +1211,16 @@
       <category>r&amp;b</category>
     </item>
     <item>
-      <title>NGC 6326 (Instrumental) - Toonorth</title>
+      <title>NGC 6326 (Instrumental)</title>
       <link>https://audiio.com/toonorth/adomania/ngc-6326</link>
       <guid isPermaLink="false">https://audiio.com/track/16464</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Adomania.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Adomania.jpg</image>
+      <artist>Toonorth</artist>
+      <album />
+      <duration>1:55</duration>
+      <bpm>76</bpm>
+      <genres>ambient, hip hop, lo-fi</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Toonorth&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, hip hop, lo-fi&lt;/p&gt;
@@ -992,11 +1237,16 @@
       <category>lo-fi</category>
     </item>
     <item>
-      <title>Christmas With You Again - Bailey Taylor</title>
+      <title>Christmas With You Again</title>
       <link>https://audiio.com/bailey-taylor/christmas-love-/christmas-with-you-again</link>
       <guid isPermaLink="false">https://audiio.com/track/17761</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Bailey Taylor Christmas Love (EP).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Bailey Taylor Christmas Love (EP).jpg</image>
+      <artist>Bailey Taylor</artist>
+      <album />
+      <duration>3:35</duration>
+      <bpm>71</bpm>
+      <genres>cinematic, christmas, singerwriter</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bailey Taylor&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, christmas, singerwriter&lt;/p&gt;
@@ -1013,11 +1263,16 @@
       <category>singerwriter</category>
     </item>
     <item>
-      <title>Circles - VELVETTICA</title>
+      <title>Circles</title>
       <link>https://audiio.com/velvettica/velvettica/circles</link>
       <guid isPermaLink="false">https://audiio.com/track/16581</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG</image>
+      <artist>VELVETTICA</artist>
+      <album />
+      <duration>3:07</duration>
+      <bpm>161</bpm>
+      <genres>cinematic, pop, r&amp;b</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; VELVETTICA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, r&amp;amp;b&lt;/p&gt;
@@ -1034,11 +1289,16 @@
       <category>r&amp;b</category>
     </item>
     <item>
-      <title>time of my life - Ian Taylour</title>
+      <title>time of my life</title>
       <link>https://audiio.com/ian-taylour/time-of-my-life/time-of-my-life</link>
       <guid isPermaLink="false">https://audiio.com/track/17307</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/3. time of my life - Ian Taylour (Artwork).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/3. time of my life - Ian Taylour (Artwork).jpg</image>
+      <artist>Ian Taylour</artist>
+      <album />
+      <duration>3:30</duration>
+      <bpm>120</bpm>
+      <genres>indie, pop, singerwriter</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Ian Taylour&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, singerwriter&lt;/p&gt;
@@ -1055,11 +1315,16 @@
       <category>singerwriter</category>
     </item>
     <item>
-      <title>Guiding Light - Sully Bright</title>
+      <title>Guiding Light</title>
       <link>https://audiio.com/sully-bright/these-years-below/guiding-light</link>
       <guid isPermaLink="false">https://audiio.com/track/16260</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/These Years Below Cover Art.jpeg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/These Years Below Cover Art.jpeg</image>
+      <artist>Sully Bright</artist>
+      <album />
+      <duration>3:58</duration>
+      <bpm>144</bpm>
+      <genres>folk</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Sully Bright&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; folk&lt;/p&gt;
@@ -1074,11 +1339,16 @@
       <category>folk</category>
     </item>
     <item>
-      <title>Push (Instrumental) - Henry Miles</title>
+      <title>Push (Instrumental)</title>
       <link>https://audiio.com/henry-miles/push/push-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15926</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Push.jpeg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Push.jpeg</image>
+      <artist>Henry Miles</artist>
+      <album />
+      <duration>1:07</duration>
+      <bpm>120</bpm>
+      <genres>cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Henry Miles&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
@@ -1093,11 +1363,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Sin City - Izzy Arden</title>
+      <title>Sin City</title>
       <link>https://audiio.com/izzy-arden/izzy-arden/sin-city</link>
       <guid isPermaLink="false">https://audiio.com/track/17332</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Photo Oct 20 2025, 11 18 38 PM (1) (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Photo Oct 20 2025, 11 18 38 PM (1) (edited).jpg</image>
+      <artist>Izzy Arden</artist>
+      <album />
+      <duration>3:13</duration>
+      <bpm>128</bpm>
+      <genres>electronic, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Izzy Arden&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
@@ -1113,11 +1388,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Vibe Check (Feat. Genaro Ortiz) - CTRL FREQS</title>
+      <title>Vibe Check (Feat. Genaro Ortiz)</title>
       <link>https://audiio.com/ctrl-freqs/ctrl-freqs/vibe-check-feat-genaro-ortiz</link>
       <guid isPermaLink="false">https://audiio.com/track/17984</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/CTRL FREQS Artist Photo (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/CTRL FREQS Artist Photo (edited).jpg</image>
+      <artist>CTRL FREQS</artist>
+      <album />
+      <duration>2:38</duration>
+      <bpm>115</bpm>
+      <genres>hip hop, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; CTRL FREQS&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, pop&lt;/p&gt;
@@ -1133,11 +1413,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Ink Splash (Feat. Richard Houghten) (Instrumental) - Arms and Sleepers</title>
+      <title>Ink Splash (Feat. Richard Houghten) (Instrumental)</title>
       <link>https://audiio.com/arms-and-sleepers/arms-and-sleepers/ink-splash-feat-richard-houghten-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/17266</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Arms-And-Sleepers_Arms-And-Sleepers.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Arms-And-Sleepers_Arms-And-Sleepers.jpg</image>
+      <artist>Arms and Sleepers</artist>
+      <album />
+      <duration>2:02</duration>
+      <bpm>77</bpm>
+      <genres>hip hop, lo-fi</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arms and Sleepers&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, lo-fi&lt;/p&gt;
@@ -1153,11 +1438,16 @@
       <category>lo-fi</category>
     </item>
     <item>
-      <title>Too Bad, I'm In Love With You! - Kev Kelly</title>
+      <title>Too Bad, I'm In Love With You!</title>
       <link>https://audiio.com/kev-kelly/disaster,-baby!/too-bad-im-in-love-with-you</link>
       <guid isPermaLink="false">https://audiio.com/track/17207</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DSC00202 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DSC00202 (edited).jpg</image>
+      <artist>Kev Kelly</artist>
+      <album />
+      <duration>3:16</duration>
+      <bpm>120</bpm>
+      <genres>indie, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kev Kelly&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop&lt;/p&gt;
@@ -1173,11 +1463,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Paralyzed (Feat. Zaug) - Clarx</title>
+      <title>Paralyzed (Feat. Zaug)</title>
       <link>https://audiio.com/clarx/paralyzed/paralyzed-feat-zaug</link>
       <guid isPermaLink="false">https://audiio.com/track/17587</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Clarx &amp; Zaug - Paralyzed [ARTWORK].jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Clarx &amp; Zaug - Paralyzed [ARTWORK].jpg</image>
+      <artist>Clarx</artist>
+      <album />
+      <duration>2:36</duration>
+      <bpm>120</bpm>
+      <genres>electronic, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Clarx&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
@@ -1193,11 +1488,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Light Years - Georgi Krastev</title>
+      <title>Light Years</title>
       <link>https://audiio.com/georgi-krastev/light-years/light-years</link>
       <guid isPermaLink="false">https://audiio.com/track/16336</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Light_Years_Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Light_Years_Cover.jpg</image>
+      <artist>Georgi Krastev</artist>
+      <album />
+      <duration>2:52</duration>
+      <bpm>129</bpm>
+      <genres>folk, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Georgi Krastev&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; folk, pop, rock&lt;/p&gt;
@@ -1214,11 +1514,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>JUMP!! (Feat. Asáu) - Golden Child</title>
+      <title>JUMP!! (Feat. Asáu)</title>
       <link>https://audiio.com/golden-child/jump!!/jump-feat-asu</link>
       <guid isPermaLink="false">https://audiio.com/track/15766</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/JUMPt3.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/JUMPt3.jpg</image>
+      <artist>Golden Child</artist>
+      <album />
+      <duration>2:14</duration>
+      <bpm>144</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Golden Child&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -1233,11 +1538,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>On The Nature of Things (Instrumental) - Fjodor</title>
+      <title>On The Nature of Things (Instrumental)</title>
       <link>https://audiio.com/fjodor/on-the-nature-of-things/on-the-nature-of-things-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15946</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Fjodor - On the Nature of Things Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Fjodor - On the Nature of Things Cover.jpg</image>
+      <artist>Fjodor</artist>
+      <album />
+      <duration>3:24</duration>
+      <bpm>101</bpm>
+      <genres>ambient, cinematic, classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Fjodor&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
@@ -1254,11 +1564,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>I Heart Zebulon - Clans</title>
+      <title>I Heart Zebulon</title>
       <link>https://audiio.com/clans/rock-em-sock-em/i-heart-zebulon</link>
       <guid isPermaLink="false">https://audiio.com/track/16198</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/2. Rock Em Sock Em.jpg?v=22" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/2. Rock Em Sock Em.jpg?v=22</image>
+      <artist>Clans</artist>
+      <album />
+      <duration>3:15</duration>
+      <bpm>105</bpm>
+      <genres>indie, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Clans&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, rock&lt;/p&gt;
@@ -1275,11 +1590,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Your Body (Feat. Mani) - RIVR</title>
+      <title>Your Body (Feat. Mani)</title>
       <link>https://audiio.com/rivr/your-body-(feat.-mani)/your-body-feat-mani</link>
       <guid isPermaLink="false">https://audiio.com/track/16911</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Your Body Album Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Your Body Album Cover.jpg</image>
+      <artist>RIVR</artist>
+      <album />
+      <duration>2:38</duration>
+      <bpm>131</bpm>
+      <genres>electronic, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; RIVR&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
@@ -1295,11 +1615,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Smoke (Feat. Kemvr) - St. Society</title>
+      <title>Smoke (Feat. Kemvr)</title>
       <link>https://audiio.com/st.-society/ascension/smoke-feat-kemvr</link>
       <guid isPermaLink="false">https://audiio.com/track/15968</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/16 - St.Society ASCENSION Cover Art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/16 - St.Society ASCENSION Cover Art.jpg</image>
+      <artist>St. Society</artist>
+      <album />
+      <duration>2:22</duration>
+      <bpm>148</bpm>
+      <genres>hip hop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; St. Society&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop&lt;/p&gt;
@@ -1314,11 +1639,16 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>Infinite (Instrumental) - Lost Trails</title>
+      <title>Infinite (Instrumental)</title>
       <link>https://audiio.com/lost-trails/lost-trails/infinite-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15741</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/LostTrails2 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/LostTrails2 (edited).jpg</image>
+      <artist>Lost Trails</artist>
+      <album />
+      <duration>2:08</duration>
+      <bpm>108</bpm>
+      <genres>ambient, lo-fi</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Lost Trails&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, lo-fi&lt;/p&gt;
@@ -1334,11 +1664,16 @@
       <category>lo-fi</category>
     </item>
     <item>
-      <title>Trial by Fire - Matthew L. Fisher</title>
+      <title>Trial by Fire</title>
       <link>https://audiio.com/matthew-l.-fisher/njamba/trial-by-fire-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/17948</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Njamba.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Njamba.jpg</image>
+      <artist>Matthew L. Fisher</artist>
+      <album />
+      <duration>2:30</duration>
+      <bpm>110</bpm>
+      <genres>cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
@@ -1353,11 +1688,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Midwest Western (Bonus Track) (Instrumental) - Jacob Montague</title>
+      <title>Midwest Western (Bonus Track) (Instrumental)</title>
       <link>https://audiio.com/jacob-montague/midwest-western/midwest-western-bonus-track-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16407</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Midwest Western ART.jpg?v=18" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Midwest Western ART.jpg?v=18</image>
+      <artist>Jacob Montague</artist>
+      <album />
+      <duration>2:33</duration>
+      <bpm>140</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Jacob Montague&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -1372,11 +1712,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>A Quiet Promise (Instrumental) - J Scott Rakozy</title>
+      <title>A Quiet Promise (Instrumental)</title>
       <link>https://audiio.com/j-scott-rakozy/a-quiet-promise/a-quiet-promise-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16048</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_NU_NUPTIALS_Shauna_Summers_Photos_ID10266.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_NU_NUPTIALS_Shauna_Summers_Photos_ID10266.jpg</image>
+      <artist>J Scott Rakozy</artist>
+      <album />
+      <duration>2:18</duration>
+      <bpm>134</bpm>
+      <genres>ambient, cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; J Scott Rakozy&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
@@ -1392,11 +1737,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Field and Forest - The Old North</title>
+      <title>Field and Forest</title>
       <link>https://audiio.com/the-old-north/field-and-forest/field-and-forest</link>
       <guid isPermaLink="false">https://audiio.com/track/16563</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Screenshot 2025-09-11 at 1.57.52 PM.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Screenshot 2025-09-11 at 1.57.52 PM.jpg</image>
+      <artist>The Old North</artist>
+      <album />
+      <duration>3:27</duration>
+      <bpm>120</bpm>
+      <genres>acoustic, folk, indie, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Old North&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; acoustic, folk, indie, pop, rock&lt;/p&gt;
@@ -1415,11 +1765,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Are You Ready (Feat. Bri-Yan) - DROPS</title>
+      <title>Are You Ready (Feat. Bri-Yan)</title>
       <link>https://audiio.com/drops/drops/are-you-ready-feat-bri-yan</link>
       <guid isPermaLink="false">https://audiio.com/track/17695</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DROPS_Banner (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DROPS_Banner (edited).jpg</image>
+      <artist>DROPS</artist>
+      <album />
+      <duration>2:06</duration>
+      <bpm>144</bpm>
+      <genres>hip hop, pop, world</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; DROPS&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, pop, world&lt;/p&gt;
@@ -1436,11 +1791,16 @@
       <category>world</category>
     </item>
     <item>
-      <title>Love You For A Day - Johnny Cattini</title>
+      <title>Love You For A Day</title>
       <link>https://audiio.com/johnny-cattini/english-boy,-american-man/love-you-for-a-day</link>
       <guid isPermaLink="false">https://audiio.com/track/16373</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/English Boy American Man Album Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/English Boy American Man Album Cover.jpg</image>
+      <artist>Johnny Cattini</artist>
+      <album />
+      <duration>4:16</duration>
+      <bpm>140</bpm>
+      <genres>folk, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Johnny Cattini&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; folk, pop, rock&lt;/p&gt;
@@ -1457,11 +1817,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Nightflower (Instrumental) - jüle.</title>
+      <title>Nightflower (Instrumental)</title>
       <link>https://audiio.com/jüle./jüle./nightflower-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15414</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_0357.JPG" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_0357.JPG</image>
+      <artist>jüle.</artist>
+      <album />
+      <duration>1:24</duration>
+      <bpm>161</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; jüle.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -1476,11 +1841,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>Behavior - Tyrell Kenneth</title>
+      <title>Behavior</title>
       <link>https://audiio.com/tyrell-kenneth/behavior/behavior</link>
       <guid isPermaLink="false">https://audiio.com/track/15767</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Misc_1_(Nick_Fancher)_Nick_Fancher_Photos_ID6774 copy.jpg?v=43" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Misc_1_(Nick_Fancher)_Nick_Fancher_Photos_ID6774 copy.jpg?v=43</image>
+      <artist>Tyrell Kenneth</artist>
+      <album />
+      <duration>3:23</duration>
+      <bpm>131</bpm>
+      <genres>hip hop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Tyrell Kenneth&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop&lt;/p&gt;
@@ -1495,11 +1865,16 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>Watcha Gonna Play (Instrumental) - Kristoffer Eikrem</title>
+      <title>Watcha Gonna Play (Instrumental)</title>
       <link>https://audiio.com/kristoffer-eikrem/kristoffer-eikrem/watcha-gonna-play-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15756</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/036905a1-6aa3-4eab-8311-5eae540cd8ee.jpg?v=1" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/036905a1-6aa3-4eab-8311-5eae540cd8ee.jpg?v=1</image>
+      <artist>Kristoffer Eikrem</artist>
+      <album />
+      <duration>1:32</duration>
+      <bpm>88</bpm>
+      <genres>r&amp;b, jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kristoffer Eikrem&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; r&amp;amp;b, jazz&lt;/p&gt;
@@ -1515,11 +1890,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>I Will Survive - Shöckface</title>
+      <title>I Will Survive</title>
       <link>https://audiio.com/shockface/i-will-survive/i-will-survive</link>
       <guid isPermaLink="false">https://audiio.com/track/16545</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/5 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/5 (edited).jpg</image>
+      <artist>Shöckface</artist>
+      <album />
+      <duration>2:21</duration>
+      <bpm>88</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Shöckface&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -1534,11 +1914,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Far Away Places Pt. 1 (Instrumental) - Andrew and Jared Depolo</title>
+      <title>Far Away Places Pt. 1 (Instrumental)</title>
       <link>https://audiio.com/andrew-and-jared-depolo/andrew-and-jared-depolo/far-away-places-pt-1-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15657</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27</image>
+      <artist>Andrew and Jared Depolo</artist>
+      <album />
+      <duration>5:50</duration>
+      <bpm>117</bpm>
+      <genres>ambient, cinematic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
@@ -1554,11 +1939,16 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>I'm Back (Feat. S.O.) - Keepitphilthy</title>
+      <title>I'm Back (Feat. S.O.)</title>
       <link>https://audiio.com/keepitphilthy/keepitphilthy/im-back-feat-so</link>
       <guid isPermaLink="false">https://audiio.com/track/16427</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/01 - KeepitPhilty4B (edited).jpg?v=41" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/01 - KeepitPhilty4B (edited).jpg?v=41</image>
+      <artist>Keepitphilthy</artist>
+      <album />
+      <duration>2:22</duration>
+      <bpm>122</bpm>
+      <genres>hip hop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Keepitphilthy&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop&lt;/p&gt;
@@ -1573,11 +1963,16 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>Know You Better - tomy wyne</title>
+      <title>Know You Better</title>
       <link>https://audiio.com/tomy-wyne/anxious/know-you-better</link>
       <guid isPermaLink="false">https://audiio.com/track/16740</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Anxious.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Anxious.jpg</image>
+      <artist>tomy wyne</artist>
+      <album />
+      <duration>3:48</duration>
+      <bpm>117</bpm>
+      <genres>indie, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; tomy wyne&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, rock&lt;/p&gt;
@@ -1594,11 +1989,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Just Say (Instrumental) - ATYYA</title>
+      <title>Just Say (Instrumental)</title>
       <link>https://audiio.com/atyya/odyssey/just-say-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15549</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Odyssey Art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Odyssey Art.jpg</image>
+      <artist>ATYYA</artist>
+      <album />
+      <duration>4:02</duration>
+      <bpm>140</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; ATYYA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -1613,11 +2013,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>Linen feat. Rowe - Edward Cross</title>
+      <title>Linen feat. Rowe</title>
       <link>https://audiio.com/edward-cross/linen/linen-feat-rowe</link>
       <guid isPermaLink="false">https://audiio.com/track/16355</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/LINEN_FINAL_PRINT.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/LINEN_FINAL_PRINT.jpg</image>
+      <artist>Edward Cross</artist>
+      <album />
+      <duration>4:59</duration>
+      <bpm>110</bpm>
+      <genres>ambient</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Edward Cross&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
@@ -1632,11 +2037,16 @@
       <category>ambient</category>
     </item>
     <item>
-      <title>I LOVE IT - Gene Evaro Jr</title>
+      <title>I LOVE IT</title>
       <link>https://audiio.com/gene-evaro-jr/gene-evaro-jr./i-love-it</link>
       <guid isPermaLink="false">https://audiio.com/track/17290</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50</image>
+      <artist>Gene Evaro Jr</artist>
+      <album />
+      <duration>3:31</duration>
+      <bpm>112</bpm>
+      <genres>cinematic, pop, world</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Gene Evaro Jr&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, world&lt;/p&gt;
@@ -1653,11 +2063,16 @@
       <category>world</category>
     </item>
     <item>
-      <title>Boomerang (Instrumental) - asáu</title>
+      <title>Boomerang (Instrumental)</title>
       <link>https://audiio.com/asáu/asáu/boomerang-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15777</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Asau-14 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Asau-14 (edited).jpg</image>
+      <artist>asáu</artist>
+      <album />
+      <duration>2:46</duration>
+      <bpm>144</bpm>
+      <genres>electronic</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; asáu&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
@@ -1672,11 +2087,16 @@
       <category>electronic</category>
     </item>
     <item>
-      <title>Blade (Feat. Svexx) - Kenny Pahina</title>
+      <title>Blade (Feat. Svexx)</title>
       <link>https://audiio.com/kenny-pahina/night-of-the-dead/blade-feat-svexx</link>
       <guid isPermaLink="false">https://audiio.com/track/18102</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_1294.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_1294.jpg</image>
+      <artist>Kenny Pahina</artist>
+      <album />
+      <duration>2:07</duration>
+      <bpm>106</bpm>
+      <genres>pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kenny Pahina&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop&lt;/p&gt;
@@ -1691,11 +2111,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Look At Me (Feat. Esabalu) - The Artist "Me"</title>
+      <title>Look At Me (Feat. Esabalu)</title>
       <link>https://audiio.com/the-artist-"me"/look-at-me/look-at-me-feat-esabalu</link>
       <guid isPermaLink="false">https://audiio.com/track/15834</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/1.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/1.jpg</image>
+      <artist>The Artist "Me"</artist>
+      <album />
+      <duration>2:23</duration>
+      <bpm>108</bpm>
+      <genres>pop, r&amp;b</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Artist &amp;quot;Me&amp;quot;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, r&amp;amp;b&lt;/p&gt;
@@ -1711,11 +2136,16 @@
       <category>r&amp;b</category>
     </item>
     <item>
-      <title>Motown Heat - niko+</title>
+      <title>Motown Heat</title>
       <link>https://audiio.com/niko+/that's-all-folk/motown-heat</link>
       <guid isPermaLink="false">https://audiio.com/track/16224</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/7. That_s All Folk.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/7. That_s All Folk.jpg</image>
+      <artist>niko+</artist>
+      <album />
+      <duration>3:15</duration>
+      <bpm>110</bpm>
+      <genres>indie, singerwriter</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; niko+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, singerwriter&lt;/p&gt;
@@ -1731,11 +2161,16 @@
       <category>singerwriter</category>
     </item>
     <item>
-      <title>Imaginary  - Oceanne</title>
+      <title>Imaginary </title>
       <link>https://audiio.com/oceanne/oceanne/imaginary</link>
       <guid isPermaLink="false">https://audiio.com/track/15709</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_5926.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_5926.jpg</image>
+      <artist>Oceanne</artist>
+      <album />
+      <duration>3:41</duration>
+      <bpm>110</bpm>
+      <genres>folk, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Oceanne&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; folk, pop&lt;/p&gt;
@@ -1751,11 +2186,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Achilles (Feat. SLANKS) - Nyukyung</title>
+      <title>Achilles (Feat. SLANKS)</title>
       <link>https://audiio.com/nyukyung/achilles/achilles-feat-slanks</link>
       <guid isPermaLink="false">https://audiio.com/track/15693</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ACHILLES.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/ACHILLES.jpg</image>
+      <artist>Nyukyung</artist>
+      <album />
+      <duration>3:46</duration>
+      <bpm>100</bpm>
+      <genres>pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Nyukyung&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock&lt;/p&gt;
@@ -1771,11 +2211,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Alameda (Instrumental) - Ted Taforo</title>
+      <title>Alameda (Instrumental)</title>
       <link>https://audiio.com/ted-taforo/ted-taforo/alameda-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16343</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/000080030015 copy (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/000080030015 copy (edited).jpg</image>
+      <artist>Ted Taforo</artist>
+      <album />
+      <duration>4:16</duration>
+      <bpm>141</bpm>
+      <genres>jazz</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Ted Taforo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; jazz&lt;/p&gt;
@@ -1790,11 +2235,16 @@
       <category>jazz</category>
     </item>
     <item>
-      <title>Holmdel - ELITIN</title>
+      <title>Holmdel</title>
       <link>https://audiio.com/elitin/ashwire/holmdel</link>
       <guid isPermaLink="false">https://audiio.com/track/18087</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Ashwire Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Ashwire Cover.jpg</image>
+      <artist>ELITIN</artist>
+      <album />
+      <duration>2:40</duration>
+      <bpm>110</bpm>
+      <genres>ambient, indie</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; ELITIN&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, indie&lt;/p&gt;
@@ -1810,11 +2260,16 @@
       <category>indie</category>
     </item>
     <item>
-      <title>Yesterday (Instrumental) - Toonorth</title>
+      <title>Yesterday (Instrumental)</title>
       <link>https://audiio.com/toonorth/adomania/yesterday-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/16460</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Adomania.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Adomania.jpg</image>
+      <artist>Toonorth</artist>
+      <album />
+      <duration>1:39</duration>
+      <bpm>82</bpm>
+      <genres>ambient, hip hop, lo-fi</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Toonorth&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, hip hop, lo-fi&lt;/p&gt;
@@ -1831,11 +2286,16 @@
       <category>lo-fi</category>
     </item>
     <item>
-      <title>Stereo Minds - VELVETTICA</title>
+      <title>Stereo Minds</title>
       <link>https://audiio.com/velvettica/velvettica/stereo-minds</link>
       <guid isPermaLink="false">https://audiio.com/track/16585</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG</image>
+      <artist>VELVETTICA</artist>
+      <album />
+      <duration>3:33</duration>
+      <bpm>137</bpm>
+      <genres>indie, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; VELVETTICA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, rock&lt;/p&gt;
@@ -1852,11 +2312,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Paralyzed (Feat. Zaug) (Clean Version) - Clarx</title>
+      <title>Paralyzed (Feat. Zaug) (Clean Version)</title>
       <link>https://audiio.com/clarx/paralyzed/paralyzed-feat-zaug-clean-version</link>
       <guid isPermaLink="false">https://audiio.com/track/17586</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Clarx &amp; Zaug - Paralyzed [ARTWORK].jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Clarx &amp; Zaug - Paralyzed [ARTWORK].jpg</image>
+      <artist>Clarx</artist>
+      <album />
+      <duration>2:36</duration>
+      <bpm>120</bpm>
+      <genres>cinematic, electronic, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Clarx&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, electronic, pop&lt;/p&gt;
@@ -1873,11 +2338,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Blue (Instrumental) - Fjodor</title>
+      <title>Blue (Instrumental)</title>
       <link>https://audiio.com/fjodor/colours/blue-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/15933</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Fjodor - Colours Cover.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Fjodor - Colours Cover.jpg</image>
+      <artist>Fjodor</artist>
+      <album />
+      <duration>3:11</duration>
+      <bpm>120</bpm>
+      <genres>ambient, cinematic, classical</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Fjodor&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
@@ -1894,11 +2364,16 @@
       <category>classical</category>
     </item>
     <item>
-      <title>Sometimes I Dream - Clans</title>
+      <title>Sometimes I Dream</title>
       <link>https://audiio.com/clans/wherefore-art-thou-bromeo/sometimes-i-dream</link>
       <guid isPermaLink="false">https://audiio.com/track/16235</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/3. Wherefore Art Thou Bromeo_.jpg?v=34" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/3. Wherefore Art Thou Bromeo_.jpg?v=34</image>
+      <artist>Clans</artist>
+      <album />
+      <duration>3:29</duration>
+      <bpm>133</bpm>
+      <genres>pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Clans&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock&lt;/p&gt;
@@ -1914,11 +2389,16 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Here We Go (Feat. TXSH) - St. Society</title>
+      <title>Here We Go (Feat. TXSH)</title>
       <link>https://audiio.com/st.-society/ascension/here-we-go-feat-txsh</link>
       <guid isPermaLink="false">https://audiio.com/track/15962</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/16 - St.Society ASCENSION Cover Art.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/16 - St.Society ASCENSION Cover Art.jpg</image>
+      <artist>St. Society</artist>
+      <album />
+      <duration>2:47</duration>
+      <bpm>99</bpm>
+      <genres>cinematic, hip hop, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; St. Society&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop, pop&lt;/p&gt;
@@ -1935,11 +2415,16 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Survivor - Matthew L. Fisher</title>
+      <title>Survivor</title>
       <link>https://audiio.com/matthew-l.-fisher/survivor/survivor</link>
       <guid isPermaLink="false">https://audiio.com/track/15774</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg</image>
+      <artist>Matthew L. Fisher</artist>
+      <album />
+      <duration>2:35</duration>
+      <bpm>120</bpm>
+      <genres>ambient, cinematic, pop</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, pop&lt;/p&gt;
