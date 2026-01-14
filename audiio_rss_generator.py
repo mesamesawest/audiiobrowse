@@ -163,4 +163,72 @@ def generate_rss(tracks, output_file='audiio_browse.rss'):
         guid.text = f"https://audiio.com/track/{track_id}" if track_id else track_url
         
         # Image URL (separate field for Klaviyo)
-        image_url = get_image_url(track
+        image_url = get_image_url(track)
+        if image_url:
+            # Add as media:thumbnail (standard RSS extension)
+            media_thumbnail = ET.SubElement(item, 'media:thumbnail')
+            media_thumbnail.set('url', image_url)
+            # Also add as simple <image> tag for compatibility
+            image_elem = ET.SubElement(item, 'image')
+            image_elem.text = image_url
+        
+        # Separate clean fields for Klaviyo (no HTML)
+        ET.SubElement(item, 'artist').text = artist_name
+        ET.SubElement(item, 'album').text = album_name
+        ET.SubElement(item, 'duration').text = duration
+        ET.SubElement(item, 'bpm').text = str(bpm) if bpm else ''
+        ET.SubElement(item, 'genres').text = genre_str
+        
+        # Description (keep for backwards compatibility, but Klaviyo should use separate fields)
+        desc_html = f"""<p><strong>Artist:</strong> {escape(artist_name)}</p>
+<p><strong>Album:</strong> {escape(album_name)}</p>
+<p><strong>Genres:</strong> {escape(genre_str)}</p>
+<p><strong>BPM:</strong> {escape(str(bpm))}</p>
+<p><strong>Duration:</strong> {escape(duration)}</p>"""
+        
+        if image_url:
+            desc_html += f'<p><img src="{escape(image_url)}" alt="Track artwork" /></p>'
+        
+        ET.SubElement(item, 'description').text = desc_html
+        
+        # Content encoded
+        content_elem = ET.SubElement(item, 'content:encoded')
+        content_elem.text = f"<![CDATA[{desc_html}]]>"
+        
+        # PubDate
+        pub_date = track.get('created_at', '')
+        if pub_date:
+            try:
+                # Try to parse and format date
+                dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+                ET.SubElement(item, 'pubDate').text = dt.strftime('%a, %d %b %Y %H:%M:%S %z')
+            except:
+                ET.SubElement(item, 'pubDate').text = pub_date
+        
+        # Enclosure (audio file)
+        audio_url = track.get('audio_url', '')
+        if audio_url:
+            enclosure = ET.SubElement(item, 'enclosure')
+            enclosure.set('url', audio_url)
+            enclosure.set('type', 'audio/mpeg')
+        
+        # Categories (genres)
+        for genre in genres:
+            if genre:
+                ET.SubElement(item, 'category').text = genre
+    
+    # Write to file
+    tree = ET.ElementTree(root)
+    ET.indent(tree, space='  ')
+    tree.write(output_file, encoding='utf-8', xml_declaration=True)
+    print(f"RSS feed generated: {output_file} ({len(tracks)} tracks)")
+
+if __name__ == '__main__':
+    print("Fetching tracks from Audiio API...")
+    # Fetch all tracks - no max_pages limit, will continue until API returns empty
+    tracks = fetch_tracks(per_page=100, max_pages=None)
+    print(f"Total tracks found: {len(tracks)}")
+    
+    print("Generating RSS feed...")
+    generate_rss(tracks)
+    print("Done!")
