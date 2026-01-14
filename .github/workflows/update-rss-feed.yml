@@ -2,52 +2,32 @@ name: Update RSS Feed
 
 on:
   schedule:
-    # Run daily at 2 AM UTC (adjust timezone as needed)
     - cron: '0 2 * * *'
-  workflow_dispatch: # Allow manual triggering
+  workflow_dispatch:
 
 jobs:
   update-rss:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
     
-    - name: Install dependencies
-      run: |
-        # No external dependencies needed for this script
-        echo "No dependencies to install"
-    
     - name: Generate RSS feed
       run: |
-        # Check if script is in root or subdirectory
-        if [ -f "audiio_rss_generator.py" ]; then
-          python3 audiio_rss_generator.py
-        elif [ -f "audiiobrowse/audiio_rss_generator.py" ]; then
-          cd audiiobrowse
-          python3 audiio_rss_generator.py
-        else
-          echo "Error: Could not find audiio_rss_generator.py"
-          exit 1
-        fi
+        python3 audiio_rss_generator.py
     
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Add RSS file whether it's in root or subdirectory
-        if [ -f "audiio_browse.rss" ]; then
-          git add audiio_browse.rss
-        elif [ -f "audiiobrowse/audiio_browse.rss" ]; then
-          git add audiiobrowse/audiio_browse.rss
-        fi
+        git add audiio_browse.rss
         git diff --staged --quiet || git commit -m "Auto-update RSS feed - $(date +'%Y-%m-%d %H:%M:%S')"
         git push
