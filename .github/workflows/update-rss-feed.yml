@@ -20,14 +20,56 @@ jobs:
       with:
         python-version: '3.9'
     
+    - name: List files (debug)
+      run: |
+        echo "Current directory:"
+        pwd
+        echo "Files in root:"
+        ls -la
+        echo "Looking for Python script:"
+        find . -name "audiio_rss_generator.py" -type f
+    
     - name: Generate RSS feed
       run: |
-        python3 audiio_rss_generator.py
+        if [ -f "audiio_rss_generator.py" ]; then
+          echo "Found script in root, running..."
+          python3 audiio_rss_generator.py
+        elif [ -f "audiiobrowse/audiio_rss_generator.py" ]; then
+          echo "Found script in audiiobrowse/, running..."
+          cd audiiobrowse
+          python3 audiio_rss_generator.py
+        else
+          echo "ERROR: Could not find audiio_rss_generator.py"
+          echo "Available files:"
+          ls -la
+          exit 1
+        fi
+    
+    - name: Check if RSS file was created
+      run: |
+        if [ -f "audiio_browse.rss" ]; then
+          echo "RSS file found in root"
+          ls -lh audiio_browse.rss
+        elif [ -f "audiiobrowse/audiio_browse.rss" ]; then
+          echo "RSS file found in audiiobrowse/"
+          ls -lh audiiobrowse/audiio_browse.rss
+        else
+          echo "ERROR: RSS file was not created!"
+          exit 1
+        fi
     
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add audiio_browse.rss
-        git diff --staged --quiet || git commit -m "Auto-update RSS feed - $(date +'%Y-%m-%d %H:%M:%S')"
-        git push
+        if [ -f "audiio_browse.rss" ]; then
+          git add audiio_browse.rss
+        elif [ -f "audiiobrowse/audiio_browse.rss" ]; then
+          git add audiiobrowse/audiio_browse.rss
+        fi
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-update RSS feed - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
