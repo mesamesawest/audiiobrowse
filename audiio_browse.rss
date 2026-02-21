@@ -5,259 +5,261 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 04:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 04:02:36 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Hope Effect (Instrumental)</title>
-      <link>https://audiio.com/liam-back/liam-back/the-hope-effect-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/1847</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Liam-Back_Liam-Back-1.jpg?v=18" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Liam-Back_Liam-Back-1.jpg?v=18</image>
-      <artist>Liam Back</artist>
+      <title>Survivor</title>
+      <link>https://audiio.com/matthew-l.-fisher/survivor/survivor</link>
+      <guid isPermaLink="false">https://audiio.com/track/15774</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg</image>
+      <artist>Matthew L. Fisher</artist>
       <album />
-      <duration>2:48</duration>
-      <bpm>100</bpm>
-      <genres>cinematic, classical</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Liam Back&lt;/p&gt;
+      <duration>2:35</duration>
+      <bpm>120</bpm>
+      <genres>ambient, cinematic, pop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:48&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Liam-Back_Liam-Back-1.jpg?v=18" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Liam Back&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 120&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:48&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Liam-Back_Liam-Back-1.jpg?v=18" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Mon, 03 Feb 2020 23:24:26 +0000</pubDate>
-      <category>cinematic</category>
-      <category>classical</category>
-    </item>
-    <item>
-      <title>Don't Stop (No Pares) (Feat. Shy Niko)</title>
-      <link>https://audiio.com/bella-rabbit/bella-rabbit/dont-stop-no-pares-feat-shy-niko</link>
-      <guid isPermaLink="false">https://audiio.com/track/18945</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Bella Rabbit Cover Art_AudiioCatalogue.jpg?v=37" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Bella Rabbit Cover Art_AudiioCatalogue.jpg?v=37</image>
-      <artist>Bella Rabbit</artist>
-      <album />
-      <duration>2:06</duration>
-      <bpm>129</bpm>
-      <genres>electronic, pop, world</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bella Rabbit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 129&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:06&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Bella Rabbit Cover Art_AudiioCatalogue.jpg?v=37" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bella Rabbit&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 129&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:06&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Bella Rabbit Cover Art_AudiioCatalogue.jpg?v=37" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 22 Jan 2026 18:01:05 +0000</pubDate>
-      <category>electronic</category>
-      <category>pop</category>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Only The Fierce (Instrumental)</title>
-      <link>https://audiio.com/petteri-sainio/only-the-fierce-/only-the-fierce-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/19231</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Only The Fierce_Cover.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Only The Fierce_Cover.jpg</image>
-      <artist>Petteri Sainio</artist>
-      <album />
-      <duration>1:33</duration>
-      <bpm>134</bpm>
-      <genres>ambient, cinematic, classical</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Petteri Sainio&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 134&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:33&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Only The Fierce_Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Petteri Sainio&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 134&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:33&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Only The Fierce_Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 30 Jan 2026 19:48:12 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 120&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Tue, 22 Jul 2025 22:11:14 +0000</pubDate>
       <category>ambient</category>
       <category>cinematic</category>
-      <category>classical</category>
+      <category>pop</category>
     </item>
     <item>
-      <title>Keeper (Instrumental)</title>
-      <link>https://audiio.com/ben-laver/sonder/keeper-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/18795</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Sonder Album Cover.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Sonder Album Cover.jpg</image>
-      <artist>Ben Laver</artist>
-      <album />
-      <duration>4:58</duration>
-      <bpm>167</bpm>
-      <genres>cinematic, classical</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Ben Laver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 167&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:58&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Sonder Album Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Ben Laver&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 167&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:58&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Sonder Album Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 15 Jan 2026 20:13:19 +0000</pubDate>
-      <category>cinematic</category>
-      <category>classical</category>
-    </item>
-    <item>
-      <title>CONFIDENT (Feat. Kanin &amp; Danger Roberts)</title>
-      <link>https://audiio.com/glenwood!/glenwood!/confident-feat-kanin--danger-roberts</link>
-      <guid isPermaLink="false">https://audiio.com/track/14502</guid>
+      <title>TALK'N BOUT (Feat. Kanin &amp; Danger Roberts)</title>
+      <link>https://audiio.com/glenwood!/glenwood!/talkn-bout-feat-kanin--danger-roberts</link>
+      <guid isPermaLink="false">https://audiio.com/track/14504</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Artboard5 (edited).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Artboard5 (edited).jpg</image>
       <artist>Glenwood!</artist>
       <album />
-      <duration>2:11</duration>
-      <bpm>117</bpm>
-      <genres>pop</genres>
+      <duration>2:15</duration>
+      <bpm>178</bpm>
+      <genres>hip hop, pop, rock</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Glenwood!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 117&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:11&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Artboard5 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, pop, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 178&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:15&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Artboard5 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Glenwood!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 117&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:11&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Artboard5 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Wed, 23 Apr 2025 17:51:42 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, pop, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 178&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:15&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Artboard5 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Wed, 23 Apr 2025 17:54:05 +0000</pubDate>
+      <category>hip hop</category>
       <category>pop</category>
+      <category>rock</category>
     </item>
     <item>
-      <title>Trial by Fire</title>
-      <link>https://audiio.com/matthew-l.-fisher/njamba/trial-by-fire-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/17948</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Njamba.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Njamba.jpg</image>
-      <artist>Matthew L. Fisher</artist>
+      <title>I Did It (Instrumental)</title>
+      <link>https://audiio.com/clejan/i-did-it/i-did-it-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/9690</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Clejan.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Clejan.jpg</image>
+      <artist>Clejan</artist>
       <album />
-      <duration>2:30</duration>
-      <bpm>110</bpm>
-      <genres>cinematic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
+      <duration>2:49</duration>
+      <bpm>100</bpm>
+      <genres>cinematic, classical, hip hop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Clejan&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 110&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:30&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Njamba.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:49&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Clejan.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Clejan&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 110&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:30&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Njamba.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Tue, 18 Nov 2025 19:33:23 +0000</pubDate>
-      <category>cinematic</category>
-    </item>
-    <item>
-      <title>Circles</title>
-      <link>https://audiio.com/velvettica/velvettica/circles</link>
-      <guid isPermaLink="false">https://audiio.com/track/16581</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG</image>
-      <artist>VELVETTICA</artist>
-      <album />
-      <duration>3:07</duration>
-      <bpm>161</bpm>
-      <genres>cinematic, pop, r&amp;b</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; VELVETTICA&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, r&amp;amp;b&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:07&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; VELVETTICA&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, r&amp;amp;b&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:07&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/EK_0108-edit9.JPEG" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 12 Sep 2025 16:54:14 +0000</pubDate>
-      <category>cinematic</category>
-      <category>pop</category>
-      <category>r&amp;b</category>
-    </item>
-    <item>
-      <title>Into The Valleys (Instrumental)</title>
-      <link>https://audiio.com/marco-igino/marco-ignio/into-the-valleys</link>
-      <guid isPermaLink="false">https://audiio.com/track/15362</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Cover 01.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Cover 01.jpg</image>
-      <artist>Marco Igino</artist>
-      <album />
-      <duration>2:09</duration>
-      <bpm>123</bpm>
-      <genres>cinematic, classical, world</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Marco Igino&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 123&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:09&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Cover 01.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Marco Igino&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 123&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:09&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Cover 01.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Tue, 10 Jun 2025 20:53:55 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:49&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Clejan.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 18:13:48 +0000</pubDate>
       <category>cinematic</category>
       <category>classical</category>
-      <category>world</category>
-    </item>
-    <item>
-      <title>ACONITUM</title>
-      <link>https://audiio.com/shockface/aconitum/aconitum</link>
-      <guid isPermaLink="false">https://audiio.com/track/10212</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ACONITUM Album Artwork.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/ACONITUM Album Artwork.jpg</image>
-      <artist>Shöckface</artist>
-      <album />
-      <duration>2:53</duration>
-      <bpm>150</bpm>
-      <genres>electronic, hip hop</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Shöckface&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 150&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:53&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ACONITUM Album Artwork.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Shöckface&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 150&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:53&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ACONITUM Album Artwork.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Wed, 08 Nov 2023 13:25:55 +0000</pubDate>
-      <category>electronic</category>
       <category>hip hop</category>
     </item>
     <item>
-      <title>Drift (Instrumental)</title>
-      <link>https://audiio.com/kodomo/kodomo/drift-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/14875</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Kodomo - ArtistShot 02 (edited).jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Kodomo - ArtistShot 02 (edited).jpg</image>
-      <artist>Kodomo</artist>
+      <title>Awake (Instrumental)</title>
+      <link>https://audiio.com/andrew-and-jared-depolo/andrew-and-jared-depolo/awake</link>
+      <guid isPermaLink="false">https://audiio.com/track/15665</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27</image>
+      <artist>Andrew and Jared Depolo</artist>
       <album />
-      <duration>5:46</duration>
-      <bpm>99</bpm>
-      <genres>ambient, electronic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kodomo&lt;/p&gt;
+      <duration>3:17</duration>
+      <bpm>161</bpm>
+      <genres>ambient, cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, electronic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 99&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 5:46&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Kodomo - ArtistShot 02 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kodomo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:17&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, electronic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 99&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 5:46&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Kodomo - ArtistShot 02 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 22 May 2025 21:29:58 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:17&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Mon, 30 Jun 2025 17:37:21 +0000</pubDate>
       <category>ambient</category>
+      <category>cinematic</category>
+    </item>
+    <item>
+      <title>Other Side (Feat. Billy Otto)</title>
+      <link>https://audiio.com/kabrio/other-side/other-side-feat-billy-otto</link>
+      <guid isPermaLink="false">https://audiio.com/track/14961</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Other Side Cover.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Other Side Cover.jpg</image>
+      <artist>Kabrio</artist>
+      <album />
+      <duration>3:26</duration>
+      <bpm>126</bpm>
+      <genres>electronic, pop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kabrio&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 126&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:26&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Other Side Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Kabrio&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 126&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:26&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Other Side Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 23 May 2025 16:35:42 +0000</pubDate>
       <category>electronic</category>
+      <category>pop</category>
+    </item>
+    <item>
+      <title>Slip And Slide</title>
+      <link>https://audiio.com/joshoo/slip-and-slide/slip-and-slide</link>
+      <guid isPermaLink="false">https://audiio.com/track/9061</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Joshoo_SlipandSlide.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Joshoo_SlipandSlide.jpg</image>
+      <artist>Joshoo</artist>
+      <album />
+      <duration>3:42</duration>
+      <bpm>100</bpm>
+      <genres>indie, pop, rock</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Joshoo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:42&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Joshoo_SlipandSlide.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Joshoo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, pop, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:42&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Joshoo_SlipandSlide.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 16 Dec 2022 14:12:40 +0000</pubDate>
+      <category>indie</category>
+      <category>pop</category>
+      <category>rock</category>
+    </item>
+    <item>
+      <title>5-05 (Instrumental)</title>
+      <link>https://audiio.com/kvndra/so-finster-die-nacht/5-05-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/14409</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/So finster die Nacht back.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/So finster die Nacht back.jpg</image>
+      <artist>KVNDRA</artist>
+      <album />
+      <duration>6:10</duration>
+      <bpm>117</bpm>
+      <genres>ambient, cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; KVNDRA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 117&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 6:10&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/So finster die Nacht back.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; KVNDRA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 117&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 6:10&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/So finster die Nacht back.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Tue, 15 Apr 2025 19:31:12 +0000</pubDate>
+      <category>ambient</category>
+      <category>cinematic</category>
+    </item>
+    <item>
+      <title>Everything is Beautiful (Feat. RIGBIE)</title>
+      <link>https://audiio.com/josh-alan/everything-is-beautiful/everything-is-beautiful-feat-rigbie</link>
+      <guid isPermaLink="false">https://audiio.com/track/15003</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/JYLN-Everything-is-Beaut.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/JYLN-Everything-is-Beaut.jpg</image>
+      <artist>Josh Alan</artist>
+      <album />
+      <duration>4:14</duration>
+      <bpm>131</bpm>
+      <genres>cinematic, pop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Josh Alan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 131&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:14&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/JYLN-Everything-is-Beaut.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Josh Alan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 131&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:14&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/JYLN-Everything-is-Beaut.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 23 May 2025 17:42:01 +0000</pubDate>
+      <category>cinematic</category>
+      <category>pop</category>
+    </item>
+    <item>
+      <title>Looking for Something Good</title>
+      <link>https://audiio.com/the-horse-wheelies/something-good/looking-for-something-good</link>
+      <guid isPermaLink="false">https://audiio.com/track/11156</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Say More Cover.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Say More Cover.jpg</image>
+      <artist>The Horse Wheelies</artist>
+      <album />
+      <duration>2:35</duration>
+      <bpm>100</bpm>
+      <genres>indie, rock</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Horse Wheelies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Say More Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Horse Wheelies&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Say More Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Thu, 01 Aug 2024 18:49:26 +0000</pubDate>
+      <category>indie</category>
+      <category>rock</category>
+    </item>
+    <item>
+      <title>Losing It!</title>
+      <link>https://audiio.com/niko+/rock-em-sock-em/losing-it</link>
+      <guid isPermaLink="false">https://audiio.com/track/16195</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/2. Rock Em Sock Em.jpg?v=22" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/2. Rock Em Sock Em.jpg?v=22</image>
+      <artist>niko+</artist>
+      <album />
+      <duration>3:13</duration>
+      <bpm>112</bpm>
+      <genres>pop, rock</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; niko+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 112&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:13&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/2. Rock Em Sock Em.jpg?v=22" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; niko+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 112&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:13&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/2. Rock Em Sock Em.jpg?v=22" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Wed, 13 Aug 2025 19:53:31 +0000</pubDate>
+      <category>pop</category>
+      <category>rock</category>
     </item>
   </channel>
 </rss>
