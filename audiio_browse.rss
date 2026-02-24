@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 04:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 04:14:14 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Survivor</title>
@@ -17,21 +17,21 @@
       <album />
       <duration>2:35</duration>
       <bpm>120</bpm>
-      <genres>ambient, cinematic, pop</genres>
+      <genres>ambient, cinematic, world</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, world&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 120&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic, world&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 120&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Group 18.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
       <pubDate>Tue, 22 Jul 2025 22:11:14 +0000</pubDate>
       <category>ambient</category>
       <category>cinematic</category>
-      <category>pop</category>
+      <category>world</category>
     </item>
     <item>
       <title>TALK'N BOUT (Feat. Kanin &amp; Danger Roberts)</title>
