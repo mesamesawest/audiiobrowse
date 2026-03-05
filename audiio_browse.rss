@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 04:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 04:08:22 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Here We Go (Feat. TXSH)</title>
@@ -108,31 +108,6 @@
       <pubDate>Fri, 08 Nov 2024 16:33:32 +0000</pubDate>
       <category>cinematic</category>
       <category>singerwriter</category>
-    </item>
-    <item>
-      <title>Awake (Instrumental)</title>
-      <link>https://audiio.com/andrew-and-jared-depolo/andrew-and-jared-depolo/awake</link>
-      <guid isPermaLink="false">https://audiio.com/track/15665</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27</image>
-      <artist>Andrew and Jared Depolo</artist>
-      <album />
-      <duration>3:17</duration>
-      <bpm>161</bpm>
-      <genres>ambient, cinematic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:17&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:17&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Another_Planet_Daniel_Farò_Photos_ID3974 copy.jpg?v=27" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Mon, 30 Jun 2025 17:37:21 +0000</pubDate>
-      <category>ambient</category>
-      <category>cinematic</category>
     </item>
     <item>
       <title>Game On</title>
@@ -258,6 +233,31 @@
       <pubDate>Thu, 15 Jan 2026 17:53:00 +0000</pubDate>
       <category>ambient</category>
       <category>cinematic</category>
+    </item>
+    <item>
+      <title>Ride On</title>
+      <link>https://audiio.com/young-charlie/ride-on/ride-on</link>
+      <guid isPermaLink="false">https://audiio.com/track/10515</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Young Charlie.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Young Charlie.jpg</image>
+      <artist>Young Charlie</artist>
+      <album />
+      <duration>2:05</duration>
+      <bpm>100</bpm>
+      <genres>indie, rock</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Young Charlie&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:05&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Young Charlie.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Young Charlie&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; indie, rock&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:05&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Young Charlie.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 24 May 2024 22:29:39 +0000</pubDate>
+      <category>indie</category>
+      <category>rock</category>
     </item>
   </channel>
 </rss>
