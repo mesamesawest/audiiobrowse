@@ -5,255 +5,259 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 04:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:44:20 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hindrance (Instrumental)</title>
-      <link>https://audiio.com/faded-light/one/hindrance-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/12017</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ONE_EP_Faded_Light.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/ONE_EP_Faded_Light.jpg</image>
-      <artist>Faded Light</artist>
-      <album />
-      <duration>2:56</duration>
-      <bpm>100</bpm>
-      <genres>cinematic, classical</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Faded Light&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:56&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ONE_EP_Faded_Light.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Faded Light&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:56&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ONE_EP_Faded_Light.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 27 Sep 2024 18:09:04 +0000</pubDate>
-      <category>cinematic</category>
-      <category>classical</category>
-    </item>
-    <item>
-      <title>Out The Frame</title>
-      <link>https://audiio.com/tyrell-kenneth/out-the-frame/out-the-frame</link>
-      <guid isPermaLink="false">https://audiio.com/track/20047</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_YOURS_SINCERELY_Agustín_Farías_Photos_ID9837 copy.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_YOURS_SINCERELY_Agustín_Farías_Photos_ID9837 copy.jpg</image>
-      <artist>Tyrell Kenneth</artist>
-      <album />
-      <duration>2:43</duration>
-      <bpm>98</bpm>
-      <genres>hip hop</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Tyrell Kenneth&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 98&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:43&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_YOURS_SINCERELY_Agustín_Farías_Photos_ID9837 copy.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Tyrell Kenneth&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 98&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:43&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_YOURS_SINCERELY_Agustín_Farías_Photos_ID9837 copy.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Wed, 18 Mar 2026 20:44:29 +0000</pubDate>
-      <category>hip hop</category>
-    </item>
-    <item>
-      <title>Hope</title>
-      <link>https://audiio.com/matthew-l.-fisher/providence/hope-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/20048</guid>
+      <title>The Last Protector</title>
+      <link>https://audiio.com/matthew-l.-fisher/providence/the-last-protector-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/20049</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Providence-EP (1).jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Providence-EP (1).jpg</image>
       <artist>Matthew L. Fisher</artist>
       <album />
-      <duration>3:07</duration>
-      <bpm>100</bpm>
-      <genres>ambient, cinematic</genres>
+      <duration>2:37</duration>
+      <bpm>141</bpm>
+      <genres>cinematic, hip hop, world</genres>
       <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:07&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Providence-EP (1).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop, world&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 141&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:37&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Providence-EP (1).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Matthew L. Fisher&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop, world&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 141&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:37&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Providence-EP (1).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Wed, 18 Mar 2026 21:12:23 +0000</pubDate>
+      <category>cinematic</category>
+      <category>hip hop</category>
+      <category>world</category>
+    </item>
+    <item>
+      <title>DNA</title>
+      <link>https://audiio.com/salea/dna/dna</link>
+      <guid isPermaLink="false">https://audiio.com/track/20069</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DNA ALBUM COVER ART (by Jakop Kaarma).jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/DNA ALBUM COVER ART (by Jakop Kaarma).jpg</image>
+      <artist>SALEA</artist>
+      <album />
+      <duration>3:27</duration>
+      <bpm>125</bpm>
+      <genres>electronic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; SALEA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 125&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:27&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DNA ALBUM COVER ART (by Jakop Kaarma).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; SALEA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 125&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:27&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DNA ALBUM COVER ART (by Jakop Kaarma).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 20 Mar 2026 19:48:50 +0000</pubDate>
+      <category>electronic</category>
+    </item>
+    <item>
+      <title>TAKI TA</title>
+      <link>https://audiio.com/sergini/taki-ta/taki-ta</link>
+      <guid isPermaLink="false">https://audiio.com/track/14300</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Philia_Daniel_Farò_Photos_ID4672.jpg?v=39" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Philia_Daniel_Farò_Photos_ID4672.jpg?v=39</image>
+      <artist>Sergini</artist>
+      <album />
+      <duration>1:59</duration>
+      <bpm>167</bpm>
+      <genres>electronic, pop, world</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Sergini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop, world&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 167&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:59&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Philia_Daniel_Farò_Photos_ID4672.jpg?v=39" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Sergini&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop, world&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 167&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:59&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Philia_Daniel_Farò_Photos_ID4672.jpg?v=39" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Wed, 09 Apr 2025 20:53:32 +0000</pubDate>
+      <category>electronic</category>
+      <category>pop</category>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Activate</title>
+      <link>https://audiio.com/tyrell-kenneth/tyrell-kenneth/activate</link>
+      <guid isPermaLink="false">https://audiio.com/track/19549</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/IMG_0265 (edited).JPG" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/IMG_0265 (edited).JPG</image>
+      <artist>Tyrell Kenneth</artist>
+      <album />
+      <duration>2:32</duration>
+      <bpm>137</bpm>
+      <genres>cinematic, hip hop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Tyrell Kenneth&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 137&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:32&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/IMG_0265 (edited).JPG" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Tyrell Kenneth&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 137&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:32&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/IMG_0265 (edited).JPG" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 20 Feb 2026 21:38:27 +0000</pubDate>
+      <category>cinematic</category>
+      <category>hip hop</category>
+    </item>
+    <item>
+      <title>Smoker's Arc (Instrumental)</title>
+      <link>https://audiio.com/arco-state/smokers-arc/smokers-arc-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/18801</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg</image>
+      <artist>Arco State</artist>
+      <album />
+      <duration>4:18</duration>
+      <bpm>137</bpm>
+      <genres>ambient, cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arco State&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:07&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Providence-EP (1).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Wed, 18 Mar 2026 21:10:10 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 137&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:18&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arco State&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 137&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:18&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Thu, 15 Jan 2026 20:22:45 +0000</pubDate>
       <category>ambient</category>
       <category>cinematic</category>
     </item>
     <item>
-      <title>Lost At Sea</title>
-      <link>https://audiio.com/mosaé/mosaé/lost-at-sea</link>
-      <guid isPermaLink="false">https://audiio.com/track/12210</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Sequence 01.00_24_56_08.Still007-2.jpg?v=22" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Sequence 01.00_24_56_08.Still007-2.jpg?v=22</image>
-      <artist>Mosaé</artist>
+      <title>I See The Light</title>
+      <link>https://audiio.com/alaina-cross/i-see-the-light/i-see-the-light</link>
+      <guid isPermaLink="false">https://audiio.com/track/12503</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ArtistBanner_AlainaCross (edited).jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/ArtistBanner_AlainaCross (edited).jpg</image>
+      <artist>Alaina Cross</artist>
       <album />
-      <duration>2:23</duration>
-      <bpm>100</bpm>
-      <genres>electronic, hip hop</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Mosaé&lt;/p&gt;
+      <duration>3:35</duration>
+      <bpm>115</bpm>
+      <genres>pop, singerwriter</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Alaina Cross&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:23&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Sequence 01.00_24_56_08.Still007-2.jpg?v=22" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Mosaé&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, singerwriter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 115&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ArtistBanner_AlainaCross (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Alaina Cross&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:23&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Sequence 01.00_24_56_08.Still007-2.jpg?v=22" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 10 Oct 2024 16:39:12 +0000</pubDate>
-      <category>electronic</category>
-      <category>hip hop</category>
-    </item>
-    <item>
-      <title>Never Look Back</title>
-      <link>https://audiio.com/assaf-spector/ocean/never-look-back</link>
-      <guid isPermaLink="false">https://audiio.com/track/14726</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Ocean - Assaf Spector.jpeg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Ocean - Assaf Spector.jpeg</image>
-      <artist>Assaf Spector</artist>
-      <album />
-      <duration>2:56</duration>
-      <bpm>77</bpm>
-      <genres>rock, lo-fi</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Assaf Spector&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; rock, lo-fi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 77&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:56&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Ocean - Assaf Spector.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Assaf Spector&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; rock, lo-fi&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 77&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:56&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Ocean - Assaf Spector.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 15 May 2025 18:51:49 +0000</pubDate>
-      <category>rock</category>
-      <category>lo-fi</category>
-    </item>
-    <item>
-      <title>Never Be</title>
-      <link>https://audiio.com/joshua-thew/joshua-thew/never-be</link>
-      <guid isPermaLink="false">https://audiio.com/track/9270</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ALBUM ART - TURNMETOWATER joshua Thew.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/ALBUM ART - TURNMETOWATER joshua Thew.jpg</image>
-      <artist>Joshua Thew</artist>
-      <album />
-      <duration>3:37</duration>
-      <bpm>116</bpm>
-      <genres>electronic, r&amp;b</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Joshua Thew&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, r&amp;amp;b&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 116&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:37&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ALBUM ART - TURNMETOWATER joshua Thew.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Joshua Thew&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, r&amp;amp;b&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 116&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:37&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ALBUM ART - TURNMETOWATER joshua Thew.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Tue, 10 Jan 2023 20:41:26 +0000</pubDate>
-      <category>electronic</category>
-      <category>r&amp;b</category>
-    </item>
-    <item>
-      <title>We're Living A Dream</title>
-      <link>https://audiio.com/trella/we're-living-a-dream/were-living-a-dream</link>
-      <guid isPermaLink="false">https://audiio.com/track/12506</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/460864899_1014740860662992_696699432697105596_n (edited).jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/460864899_1014740860662992_696699432697105596_n (edited).jpg</image>
-      <artist>Trella</artist>
-      <album />
-      <duration>3:53</duration>
-      <bpm>100</bpm>
-      <genres>cinematic, pop, singerwriter</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Trella&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, singerwriter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:53&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/460864899_1014740860662992_696699432697105596_n (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Trella&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, singerwriter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:53&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/460864899_1014740860662992_696699432697105596_n (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 07 Nov 2024 21:23:56 +0000</pubDate>
-      <category>cinematic</category>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, singerwriter&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 115&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ArtistBanner_AlainaCross (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Thu, 07 Nov 2024 21:18:44 +0000</pubDate>
       <category>pop</category>
       <category>singerwriter</category>
     </item>
     <item>
-      <title>NEVER BACK DOWN! (Ft. Kanin &amp; Glenwood)</title>
-      <link>https://audiio.com/easy-mccoy/easy-mccoy/never-back-down-ft-kanin--glenwood</link>
-      <guid isPermaLink="false">https://audiio.com/track/13345</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/EasyMPortsPt2-19 (edited) (1).jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/EasyMPortsPt2-19 (edited) (1).jpg</image>
-      <artist>Easy McCoy</artist>
+      <title>The Chapel (Instrumental)</title>
+      <link>https://audiio.com/collins/collins/the-chapel-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/13283</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Collins Profile Pic (edited).jpeg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Collins Profile Pic (edited).jpeg</image>
+      <artist>Collins</artist>
       <album />
-      <duration>2:47</duration>
-      <bpm>99</bpm>
-      <genres>cinematic, hip hop</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Easy McCoy&lt;/p&gt;
+      <duration>3:03</duration>
+      <bpm>100</bpm>
+      <genres>cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Collins&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 99&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:47&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/EasyMPortsPt2-19 (edited) (1).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Easy McCoy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:03&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Collins Profile Pic (edited).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Collins&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 99&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:47&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/EasyMPortsPt2-19 (edited) (1).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 07 Feb 2025 17:47:21 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:03&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Collins Profile Pic (edited).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 31 Jan 2025 22:24:26 +0000</pubDate>
       <category>cinematic</category>
-      <category>hip hop</category>
     </item>
     <item>
-      <title>Look</title>
-      <link>https://audiio.com/lola-buzz/lola-buzz/look</link>
-      <guid isPermaLink="false">https://audiio.com/track/14973</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/30 - LOLA BUZZ IMAGE (edited).jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/30 - LOLA BUZZ IMAGE (edited).jpg</image>
-      <artist>Lola Buzz</artist>
+      <title>LIKE IT'S 1965</title>
+      <link>https://audiio.com/gene-evaro-jr/gene-evaro-jr./like-its-1965</link>
+      <guid isPermaLink="false">https://audiio.com/track/17291</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50</image>
+      <artist>Gene Evaro Jr</artist>
       <album />
-      <duration>3:29</duration>
-      <bpm>140</bpm>
-      <genres>pop, rock</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Lola Buzz&lt;/p&gt;
+      <duration>3:43</duration>
+      <bpm>161</bpm>
+      <genres>pop, rock, soul</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Gene Evaro Jr&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 140&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:29&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/30 - LOLA BUZZ IMAGE (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Lola Buzz&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock, soul&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:43&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Gene Evaro Jr&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 140&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:29&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/30 - LOLA BUZZ IMAGE (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 23 May 2025 16:53:59 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop, rock, soul&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 161&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:43&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/GENE EVARO JR.JPG?v=50" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 24 Oct 2025 14:29:25 +0000</pubDate>
       <category>pop</category>
       <category>rock</category>
+      <category>soul</category>
     </item>
     <item>
-      <title>We Live In A Noisy World (Instrumental)</title>
-      <link>https://audiio.com/davide-sammarchi/we-live-in-a-noisy-world/we-live-in-a-noisy-world-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/11145</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Davide Sammarchi - We Live In A Noisy World.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Davide Sammarchi - We Live In A Noisy World.jpg</image>
-      <artist>Davide Sammarchi</artist>
+      <title>Nostalgia (Instrumental)</title>
+      <link>https://audiio.com/laure-chan/tribute-to-bach/nostalgia-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/16708</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album 1 cover art.jpeg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album 1 cover art.jpeg</image>
+      <artist>Laure Chan</artist>
       <album />
-      <duration>3:16</duration>
-      <bpm>100</bpm>
+      <duration>3:24</duration>
+      <bpm>99</bpm>
+      <genres>cinematic, classical, country, folk, world</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Laure Chan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, country, folk, world&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 99&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:24&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album 1 cover art.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Laure Chan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, country, folk, world&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 99&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:24&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album 1 cover art.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Thu, 02 Oct 2025 14:48:32 +0000</pubDate>
+      <category>cinematic</category>
+      <category>classical</category>
+      <category>country</category>
+      <category>folk</category>
+      <category>world</category>
+    </item>
+    <item>
+      <title>Distance (Instrumental)</title>
+      <link>https://audiio.com/glückskind/glückskind/distance-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/15168</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Kopie von _DSC2854 (2)-01 (edited).jpeg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Kopie von _DSC2854 (2)-01 (edited).jpeg</image>
+      <artist>Glückskind</artist>
+      <album />
+      <duration>3:25</duration>
+      <bpm>123</bpm>
       <genres>ambient, electronic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Davide Sammarchi&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Glückskind&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, electronic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Davide Sammarchi - We Live In A Noisy World.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Davide Sammarchi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 123&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:25&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Kopie von _DSC2854 (2)-01 (edited).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Glückskind&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, electronic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Davide Sammarchi - We Live In A Noisy World.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 01 Aug 2024 18:21:34 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 123&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:25&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Kopie von _DSC2854 (2)-01 (edited).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Thu, 29 May 2025 18:28:11 +0000</pubDate>
       <category>ambient</category>
       <category>electronic</category>
     </item>
