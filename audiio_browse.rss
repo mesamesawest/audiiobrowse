@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 05:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 05:38:22 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Revival</title>
@@ -1087,31 +1087,6 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Smoker's Arc (Instrumental)</title>
-      <link>https://audiio.com/arco-state/smokers-arc/smokers-arc-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/18801</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg</image>
-      <artist>Arco State</artist>
-      <album />
-      <duration>4:18</duration>
-      <bpm>137</bpm>
-      <genres>ambient, cinematic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arco State&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 137&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:18&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arco State&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 137&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:18&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Smoker-Arc.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 15 Jan 2026 20:22:45 +0000</pubDate>
-      <category>ambient</category>
-      <category>cinematic</category>
-    </item>
-    <item>
       <title>Beyond the Pull of Things (Ambient Version)</title>
       <link>https://audiio.com/dmitriy-redko/beyond-the-pull-of-things/beyond-the-pull-of-things-ambient-version-instrumental</link>
       <guid isPermaLink="false">https://audiio.com/track/19670</guid>
@@ -1721,31 +1696,6 @@
       <category>cinematic</category>
     </item>
     <item>
-      <title>Mooring (Instrumental)</title>
-      <link>https://audiio.com/brad-hill/mooring/mooring-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/20123</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg</image>
-      <artist>Brad Hill</artist>
-      <album />
-      <duration>3:01</duration>
-      <bpm>88</bpm>
-      <genres>ambient, cinematic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Brad Hill&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 88&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:01&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Brad Hill&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 88&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:01&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 27 Mar 2026 15:07:01 +0000</pubDate>
-      <category>ambient</category>
-      <category>cinematic</category>
-    </item>
-    <item>
       <title>Botella</title>
       <link>https://audiio.com/kltr/kltr/botella</link>
       <guid isPermaLink="false">https://audiio.com/track/18452</guid>
@@ -2276,30 +2226,6 @@
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 94&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 11:48&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Nico Rosenberg 1 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
       <pubDate>Fri, 27 Feb 2026 21:19:40 +0000</pubDate>
-      <category>ambient</category>
-    </item>
-    <item>
-      <title>Curtain (Instrumental)</title>
-      <link>https://audiio.com/arco-state/arco-state/curtain-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/18804</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/R1-04399-0028 (edited).JPG" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/R1-04399-0028 (edited).JPG</image>
-      <artist>Arco State</artist>
-      <album />
-      <duration>3:28</duration>
-      <bpm>117</bpm>
-      <genres>ambient</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arco State&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 117&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:28&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/R1-04399-0028 (edited).JPG" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arco State&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 117&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:28&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/R1-04399-0028 (edited).JPG" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Thu, 15 Jan 2026 20:25:51 +0000</pubDate>
       <category>ambient</category>
     </item>
     <item>
