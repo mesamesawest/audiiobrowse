@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 05:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:56:49 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Revival</title>
@@ -2257,8 +2257,8 @@
       <title>Bare</title>
       <link>https://audiio.com/wildes/bare/bare</link>
       <guid isPermaLink="false">https://audiio.com/track/20216</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Copy of 88490011.jpeg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Copy of 88490011.jpeg</image>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Copy of Copy of 88490003 copy.jpeg?v=46" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Copy of Copy of 88490003 copy.jpeg?v=46</image>
       <artist>WILDES</artist>
       <album />
       <duration>4:16</duration>
@@ -2268,12 +2268,12 @@
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 129&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Copy of 88490011.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Copy of Copy of 88490003 copy.jpeg?v=46" alt="Track artwork" /&gt;&lt;/p&gt;</description>
       <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; WILDES&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; pop&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 129&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Copy of 88490011.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Copy of Copy of 88490003 copy.jpeg?v=46" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
       <pubDate>Thu, 02 Apr 2026 20:29:01 +0000</pubDate>
       <category>pop</category>
     </item>
