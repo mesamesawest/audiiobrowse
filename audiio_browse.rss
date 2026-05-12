@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2026 05:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:34:55 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Life Is Beautiful</title>
@@ -1721,6 +1721,31 @@
       <pubDate>Wed, 17 Dec 2025 21:44:27 +0000</pubDate>
       <category>pop</category>
       <category>world</category>
+    </item>
+    <item>
+      <title>Mooring (Instrumental)</title>
+      <link>https://audiio.com/brad-hill/mooring/mooring-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/20123</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg</image>
+      <artist>Brad Hill</artist>
+      <album />
+      <duration>3:01</duration>
+      <bpm>88</bpm>
+      <genres>ambient, cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Brad Hill&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 88&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:01&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Brad Hill&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 88&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:01&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Brad Hill_Mooring_Cover (1).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 27 Mar 2026 15:07:01 +0000</pubDate>
+      <category>ambient</category>
+      <category>cinematic</category>
     </item>
     <item>
       <title>I Don't Wanna Be Right</title>
