@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 07:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:47:47 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Hey! </title>
@@ -1523,17 +1523,17 @@
       <guid isPermaLink="false">https://audiio.com/track/20592</guid>
       <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Joseph_s dream.jpg" />
       <image>https://d2pagzouz5kmpq.cloudfront.net/Joseph_s dream.jpg</image>
-      <artist>NSee</artist>
+      <artist>Nsee</artist>
       <album />
       <duration>2:00</duration>
       <bpm>148</bpm>
       <genres>ambient, classical</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; NSee&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Nsee&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, classical&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 148&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:00&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Joseph_s dream.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; NSee&lt;/p&gt;
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Nsee&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, classical&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 148&lt;/p&gt;
