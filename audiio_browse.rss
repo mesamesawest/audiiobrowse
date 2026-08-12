@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 03:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 04:01:20 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Mrs. Fahrenheit</title>
@@ -608,6 +608,31 @@
       <pubDate>Mon, 03 Feb 2020 23:24:27 +0000</pubDate>
       <category>acoustic</category>
       <category>singerwriter</category>
+    </item>
+    <item>
+      <title>I Feel The Power</title>
+      <link>https://audiio.com/cada/i-feel-the-power/i-feel-the-power</link>
+      <guid isPermaLink="false">https://audiio.com/track/19902</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/CADA_album1.jpg?v=46" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/CADA_album1.jpg?v=46</image>
+      <artist>CADA</artist>
+      <album />
+      <duration>2:13</duration>
+      <bpm>129</bpm>
+      <genres>electronic, pop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; CADA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 129&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:13&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/CADA_album1.jpg?v=46" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; CADA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, pop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 129&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:13&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/CADA_album1.jpg?v=46" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 13 Mar 2026 18:31:28 +0000</pubDate>
+      <category>electronic</category>
+      <category>pop</category>
     </item>
     <item>
       <title>Indigo (Instrumental)</title>
