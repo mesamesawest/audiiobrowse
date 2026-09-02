@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:43:38 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Blue (Instrumental)</title>
@@ -357,29 +357,29 @@
       <category>classical</category>
     </item>
     <item>
-      <title>Like Wow!</title>
-      <link>https://audiio.com/the-lightning-kicks/the-lightning-kicks/like-wow</link>
-      <guid isPermaLink="false">https://audiio.com/track/13446</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_In_Focus_Daniel_Farò_Photos_ID4977.jpg?v=3" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_In_Focus_Daniel_Farò_Photos_ID4977.jpg?v=3</image>
-      <artist>The Lightning Kicks</artist>
+      <title>Switch It (Feat. Chmura)</title>
+      <link>https://audiio.com/atyya/atyya/switch-it-feat-chmura</link>
+      <guid isPermaLink="false">https://audiio.com/track/15480</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/ATYYA_Crowd_4 (edited).jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/ATYYA_Crowd_4 (edited).jpg</image>
+      <artist>ATYYA</artist>
       <album />
-      <duration>2:34</duration>
-      <bpm>100</bpm>
-      <genres>cinematic, pop</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Lightning Kicks&lt;/p&gt;
+      <duration>2:33</duration>
+      <bpm>140</bpm>
+      <genres>electronic, hip hop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; ATYYA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:34&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_In_Focus_Daniel_Farò_Photos_ID4977.jpg?v=3" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; The Lightning Kicks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 140&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:33&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ATYYA_Crowd_4 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; ATYYA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:34&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_In_Focus_Daniel_Farò_Photos_ID4977.jpg?v=3" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 14 Feb 2025 19:06:02 +0000</pubDate>
-      <category>cinematic</category>
-      <category>pop</category>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 140&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:33&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/ATYYA_Crowd_4 (edited).jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Tue, 24 Jun 2025 20:13:13 +0000</pubDate>
+      <category>electronic</category>
+      <category>hip hop</category>
     </item>
     <item>
       <title>Woa (Instrumental)</title>
