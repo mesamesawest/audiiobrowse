@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:51:17 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Radiance (Instrumental)</title>
@@ -109,29 +109,28 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>The Earth Cries Out (Instrumental)</title>
-      <link>https://audiio.com/andrew-and-jared-depolo/mountains/the-earth-cries-out-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/14128</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Nature copy.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Nature copy.jpg</image>
-      <artist>Andrew and Jared Depolo</artist>
+      <title>Push (Instrumental)</title>
+      <link>https://audiio.com/henry-miles/push/push-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/15926</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Push.jpeg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Push.jpeg</image>
+      <artist>Henry Miles</artist>
       <album />
-      <duration>2:42</duration>
-      <bpm>128</bpm>
-      <genres>cinematic, world</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
+      <duration>1:07</duration>
+      <bpm>120</bpm>
+      <genres>cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Henry Miles&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 128&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:42&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Nature copy.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Andrew and Jared Depolo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 120&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:07&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Push.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Henry Miles&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 128&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:42&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Nature copy.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 28 Mar 2025 16:26:27 +0000</pubDate>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 120&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:07&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Push.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Thu, 24 Jul 2025 21:11:10 +0000</pubDate>
       <category>cinematic</category>
-      <category>world</category>
     </item>
     <item>
       <title>Sugar (Feat. Esabalu)</title>
