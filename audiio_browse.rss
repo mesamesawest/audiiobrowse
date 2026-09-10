@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:55:41 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Everything is Beautiful (Feat. RIGBIE)</title>
@@ -561,104 +561,54 @@
       <category>rock</category>
     </item>
     <item>
-      <title>Black Holes (Instrumental)</title>
-      <link>https://audiio.com/giuliano-poles/black-holes/black-holes-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/9350</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_GP_BlackHoles.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_GP_BlackHoles.jpg</image>
-      <artist>Giuliano Poles</artist>
+      <title>All In</title>
+      <link>https://audiio.com/evan-ford/evan-ford/all-in</link>
+      <guid isPermaLink="false">https://audiio.com/track/13239</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Evan-Ford_002.jpeg?v=29" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Evan-Ford_002.jpeg?v=29</image>
+      <artist>Evan Ford</artist>
       <album />
-      <duration>1:38</duration>
-      <bpm>143</bpm>
-      <genres>ambient, cinematic</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Giuliano Poles&lt;/p&gt;
+      <duration>1:35</duration>
+      <bpm>100</bpm>
+      <genres>cinematic, hip hop</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Evan Ford&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 143&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:38&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_GP_BlackHoles.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Giuliano Poles&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Evan-Ford_002.jpeg?v=29" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Evan Ford&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 143&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:38&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_GP_BlackHoles.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Tue, 31 Jan 2023 18:04:11 +0000</pubDate>
-      <category>ambient</category>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, hip hop&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:35&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Evan-Ford_002.jpeg?v=29" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 31 Jan 2025 21:49:55 +0000</pubDate>
       <category>cinematic</category>
+      <category>hip hop</category>
     </item>
     <item>
-      <title>Set These Hills On Fire (Alt Version) (Instrumental)</title>
-      <link>https://audiio.com/cemetery-men/dirty-hands/set-these-hills-fire-alt-version-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/3627</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/CemeteryMen_DirtyHands.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/CemeteryMen_DirtyHands.jpg</image>
-      <artist>Cemetery Men</artist>
+      <title>My Love for You (Instrrumental)</title>
+      <link>https://audiio.com/bob-barr/bob-barr/my-love-for-you-instrrumental-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/21201</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg</image>
+      <artist>Bob Barr</artist>
       <album />
-      <duration>2:19</duration>
-      <bpm>130</bpm>
-      <genres>rock</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Cemetery Men&lt;/p&gt;
+      <duration>3:44</duration>
+      <bpm>148</bpm>
+      <genres>country, folk</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bob Barr&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; rock&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 130&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:19&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/CemeteryMen_DirtyHands.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Cemetery Men&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; country, folk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 148&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:44&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bob Barr&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; rock&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 130&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:19&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/CemeteryMen_DirtyHands.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Tue, 07 Apr 2020 05:15:51 +0000</pubDate>
-      <category>rock</category>
-    </item>
-    <item>
-      <title>Rising Night (Instrumental)</title>
-      <link>https://audiio.com/marko-maksimovic/marko-maksimovic/rising-night-instrumental</link>
-      <guid isPermaLink="false">https://audiio.com/track/6280</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/MarkMaksimovic_SelfTitled.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/MarkMaksimovic_SelfTitled.jpg</image>
-      <artist>Marko Maksimovic</artist>
-      <album />
-      <duration>2:59</duration>
-      <bpm>93</bpm>
-      <genres>cinematic, classical, world</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Marko Maksimovic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 93&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:59&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/MarkMaksimovic_SelfTitled.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Marko Maksimovic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 93&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:59&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/MarkMaksimovic_SelfTitled.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Sun, 20 Dec 2020 23:31:18 +0000</pubDate>
-      <category>cinematic</category>
-      <category>classical</category>
-      <category>world</category>
-    </item>
-    <item>
-      <title>Earth &amp; Beyond</title>
-      <link>https://audiio.com/jamie-stevens/jamie-stevens/earth-beyond</link>
-      <guid isPermaLink="false">https://audiio.com/track/1166</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Jamie-Stevens_Jamie-Stevens.jpg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/Jamie-Stevens_Jamie-Stevens.jpg</image>
-      <artist>Jamie Stevens</artist>
-      <album />
-      <duration>1:05</duration>
-      <bpm>124</bpm>
-      <genres>cinematic, classical</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Jamie Stevens&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 124&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:05&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Jamie-Stevens_Jamie-Stevens.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Jamie Stevens&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, classical&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 124&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 1:05&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Jamie-Stevens_Jamie-Stevens.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 17 Nov 2017 17:26:39 +0000</pubDate>
-      <category>cinematic</category>
-      <category>classical</category>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; country, folk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 148&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:44&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Mon, 31 Aug 2026 14:56:37 +0000</pubDate>
+      <category>country</category>
+      <category>folk</category>
     </item>
     <item>
       <title>Lightly</title>
@@ -709,31 +659,6 @@
       <pubDate>Thu, 09 Apr 2026 20:54:16 +0000</pubDate>
       <category>ambient</category>
       <category>cinematic</category>
-    </item>
-    <item>
-      <title>Love Transcends</title>
-      <link>https://audiio.com/reyus/reyus-i/love-transcends</link>
-      <guid isPermaLink="false">https://audiio.com/track/20839</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/DTS_Caldo_Daniel_Farò_Photos_ID3969.jpg?v=54" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/DTS_Caldo_Daniel_Farò_Photos_ID3969.jpg?v=54</image>
-      <artist>REYUS</artist>
-      <album />
-      <duration>4:43</duration>
-      <bpm>140</bpm>
-      <genres>electronic, hip hop</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; REYUS&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 140&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:43&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Caldo_Daniel_Farò_Photos_ID3969.jpg?v=54" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; REYUS&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; electronic, hip hop&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 140&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 4:43&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/DTS_Caldo_Daniel_Farò_Photos_ID3969.jpg?v=54" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Tue, 23 Jun 2026 15:09:49 +0000</pubDate>
-      <category>electronic</category>
-      <category>hip hop</category>
     </item>
     <item>
       <title>DNA</title>
@@ -1057,6 +982,31 @@
       <category>indie</category>
       <category>pop</category>
       <category>rock</category>
+    </item>
+    <item>
+      <title>Hello Mr. Sunshine (Instrumental)</title>
+      <link>https://audiio.com/bob-barr/bob-barr/hello-mr-sunshine-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/21199</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg</image>
+      <artist>Bob Barr</artist>
+      <album />
+      <duration>3:16</duration>
+      <bpm>110</bpm>
+      <genres>country, folk</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bob Barr&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; country, folk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 110&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Bob Barr&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; country, folk&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 110&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:16&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-art_001.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Mon, 31 Aug 2026 14:55:38 +0000</pubDate>
+      <category>country</category>
+      <category>folk</category>
     </item>
     <item>
       <title>Shiesty</title>
@@ -2156,6 +2106,31 @@
       <category>cinematic</category>
       <category>classical</category>
       <category>rock</category>
+    </item>
+    <item>
+      <title>Ink Splash (Feat. Richard Houghten) (Instrumental)</title>
+      <link>https://audiio.com/arms-and-sleepers/arms-and-sleepers/ink-splash-feat-richard-houghten-instrumental</link>
+      <guid isPermaLink="false">https://audiio.com/track/17266</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Arms-And-Sleepers_Arms-And-Sleepers.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Arms-And-Sleepers_Arms-And-Sleepers.jpg</image>
+      <artist>Arms and Sleepers</artist>
+      <album />
+      <duration>2:02</duration>
+      <bpm>77</bpm>
+      <genres>hip hop, lo-fi</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arms and Sleepers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, lo-fi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 77&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:02&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Arms-And-Sleepers_Arms-And-Sleepers.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Arms and Sleepers&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; hip hop, lo-fi&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 77&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:02&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Arms-And-Sleepers_Arms-And-Sleepers.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 17 Oct 2025 19:03:15 +0000</pubDate>
+      <category>hip hop</category>
+      <category>lo-fi</category>
     </item>
   </channel>
 </rss>
