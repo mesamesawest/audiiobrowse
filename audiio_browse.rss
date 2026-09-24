@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 07:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:04:07 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>Apex (Instrumental)</title>
@@ -58,30 +58,28 @@
       <category>hip hop</category>
     </item>
     <item>
-      <title>Silenced </title>
-      <link>https://audiio.com/miriel/miriel/silenced</link>
-      <guid isPermaLink="false">https://audiio.com/track/18694</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/MIRIEL pressesbilde, tatt av Ane Nordås (edited).jpeg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/MIRIEL pressesbilde, tatt av Ane Nordås (edited).jpeg</image>
-      <artist>MIRIEL</artist>
+      <title>My Mama Said</title>
+      <link>https://audiio.com/fabio-battista/sway/my-mama-said</link>
+      <guid isPermaLink="false">https://audiio.com/track/13366</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album - Fabio Battista - SWAY -  Cover.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album - Fabio Battista - SWAY -  Cover.jpg</image>
+      <artist>Fabio Battista</artist>
       <album />
-      <duration>3:00</duration>
-      <bpm>131</bpm>
-      <genres>cinematic, pop, world</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; MIRIEL&lt;/p&gt;
+      <duration>2:15</duration>
+      <bpm>100</bpm>
+      <genres>soul</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Fabio Battista&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 131&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:00&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/MIRIEL pressesbilde, tatt av Ane Nordås (edited).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; MIRIEL&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; soul&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:15&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album - Fabio Battista - SWAY -  Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Fabio Battista&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; cinematic, pop, world&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 131&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:00&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/MIRIEL pressesbilde, tatt av Ane Nordås (edited).jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Wed, 14 Jan 2026 18:29:24 +0000</pubDate>
-      <category>cinematic</category>
-      <category>pop</category>
-      <category>world</category>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; soul&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 2:15&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album - Fabio Battista - SWAY -  Cover.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Fri, 07 Feb 2025 18:00:42 +0000</pubDate>
+      <category>soul</category>
     </item>
     <item>
       <title>Glimmer of Hope (Instrumental)</title>
