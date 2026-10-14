@@ -5,7 +5,7 @@
     <description>Complete music catalog from Audiio's browse page</description>
     <link>https://audiio.com/browse</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:00:51 +0000</lastBuildDate>
     <atom:link href="https://audiio.com/browse" rel="self" type="application/rss+xml" />
     <item>
       <title>LIGHT IT UP (Feat. Kanin &amp; Danger Roberts)</title>
@@ -231,30 +231,29 @@
       <category>pop</category>
     </item>
     <item>
-      <title>Way Back Home</title>
-      <link>https://audiio.com/løfte/løfte/way-back-home</link>
-      <guid isPermaLink="false">https://audiio.com/track/13432</guid>
-      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/023 - Lofte Cover Art 4.jpeg" />
-      <image>https://d2pagzouz5kmpq.cloudfront.net/023 - Lofte Cover Art 4.jpeg</image>
-      <artist>Løfte</artist>
+      <title>GO</title>
+      <link>https://audiio.com/keith-tutt/go/go</link>
+      <guid isPermaLink="false">https://audiio.com/track/9688</guid>
+      <media:thumbnail url="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Keith_Go.jpg" />
+      <image>https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Keith_Go.jpg</image>
+      <artist>Keith Tutt II</artist>
       <album />
-      <duration>3:09</duration>
-      <bpm>100</bpm>
-      <genres>acoustic, cinematic, singerwriter</genres>
-      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Løfte&lt;/p&gt;
+      <duration>5:51</duration>
+      <bpm>145</bpm>
+      <genres>ambient, cinematic</genres>
+      <description>&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Keith Tutt II&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; acoustic, cinematic, singerwriter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:09&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/023 - Lofte Cover Art 4.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
-      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Løfte&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 145&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 5:51&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Keith_Go.jpg" alt="Track artwork" /&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Artist:&lt;/strong&gt; Keith Tutt II&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Album:&lt;/strong&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; acoustic, cinematic, singerwriter&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 100&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 3:09&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/023 - Lofte Cover Art 4.jpeg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
-      <pubDate>Fri, 14 Feb 2025 18:17:42 +0000</pubDate>
-      <category>acoustic</category>
+&lt;p&gt;&lt;strong&gt;Genres:&lt;/strong&gt; ambient, cinematic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BPM:&lt;/strong&gt; 145&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 5:51&lt;/p&gt;&lt;p&gt;&lt;img src="https://d2pagzouz5kmpq.cloudfront.net/Album-Artwork_Keith_Go.jpg" alt="Track artwork" /&gt;&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Wed, 10 May 2023 18:06:25 +0000</pubDate>
+      <category>ambient</category>
       <category>cinematic</category>
-      <category>singerwriter</category>
     </item>
     <item>
       <title>Supersonic (feat. Sam Tinnesz)</title>
